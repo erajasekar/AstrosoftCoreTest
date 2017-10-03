@@ -1,0 +1,3652 @@
+RESULT:
+Mon Jan 01 06:00:00 EST 2007
+Monday
+Rohini ( 12:02 ) 
+Thrayodasi ( 11:18 ) 
+Shukla
+Subha ( 06:13 ) 
+Taitula ( 11:18 )  , Garija ( 22:34 ) 
+08:08 PM - 07:36 AM
+
+------------------------------------------------------
+Tue Jan 02 06:00:00 EST 2007
+Tuesday
+Mrigasira ( 11:19 ) 
+Chathurdasi ( 09:55 ) 
+Shukla
+Brahma ( 25:42 ) 
+Vanija ( 09:55 )  , Visti ( 21:22 ) 
+08:08 PM - 07:37 AM
+
+------------------------------------------------------
+Wed Jan 03 06:00:00 EST 2007
+Wednesday
+Ardra ( 11:01 ) 
+Pournami ( 08:57 ) 
+Shukla
+Indra ( 23:59 ) 
+Bava ( 08:57 )  , Balava ( 20:39 ) 
+08:09 PM - 07:37 AM
+
+------------------------------------------------------
+Thu Jan 04 06:00:00 EST 2007
+Thursday
+Punarvasu ( 11:14 ) 
+Prathamai ( 08:30 ) 
+Krishna
+Vaidhriti ( 22:43 ) 
+Kaulava ( 08:30 )  , Taitula ( 20:31 ) 
+08:09 PM - 07:38 AM
+
+------------------------------------------------------
+Fri Jan 05 06:00:00 EST 2007
+Friday
+Pushyami ( 12:04 ) 
+Dvithiyai ( 08:41 ) 
+Krishna
+Vishakambha ( 21:58 ) 
+Garija ( 08:41 )  , Vanija ( 21:02 ) 
+08:09 PM - 07:38 AM
+
+------------------------------------------------------
+Sat Jan 06 06:00:00 EST 2007
+Saturday
+Ashlesha ( 13:32 ) 
+Thrithiyai ( 09:32 ) 
+Krishna
+Priti ( 21:44 ) 
+Visti ( 09:32 )  , Bava ( 22:13 ) 
+08:10 PM - 07:39 AM
+
+------------------------------------------------------
+Sun Jan 07 06:00:00 EST 2007
+Sunday
+Magha ( 15:39 ) 
+Chathruthi ( 11:04 ) 
+Krishna
+Ayushman ( 21:58 ) 
+Balava ( 11:04 )  , Kaulava ( 24:03 ) 
+08:10 PM - 07:40 AM
+
+------------------------------------------------------
+Mon Jan 08 06:00:00 EST 2007
+Monday
+Purva Phalguni ( 18:17 ) 
+Panchami ( 13:10 ) 
+Krishna
+Saubhagya ( 22:36 ) 
+Taitula ( 13:10 )  , Garija ( 26:23 ) 
+08:10 PM - 07:40 AM
+
+------------------------------------------------------
+Tue Jan 09 06:00:00 EST 2007
+Tuesday
+Uttra Phalguni ( 21:17 ) 
+Sashti ( 15:41 ) 
+Krishna
+Sobhana ( 23:29 ) 
+Vanija ( 15:41 )  , Visti ( 29:02 ) 
+08:11 PM - 07:41 AM
+
+------------------------------------------------------
+Wed Jan 10 06:00:00 EST 2007
+Wednesday
+Hasta ( 24:24 ) 
+Sapthami ( 18:24 ) 
+Krishna
+Atiganda ( 24:27 ) 
+Bava ( 18:24 )  , Balava ( 31:44 ) 
+08:11 PM - 07:41 AM
+
+------------------------------------------------------
+Thu Jan 11 06:00:00 EST 2007
+Thursday
+Chitra ( 27:22 ) 
+Ashtami ( 21:01 ) 
+Krishna
+Sukarma ( 25:18 ) 
+Balava ( 07:44 )  , Kaulava ( 21:01 ) 
+08:11 PM - 07:42 AM
+
+------------------------------------------------------
+Fri Jan 12 06:00:00 EST 2007
+Friday
+Swathi ( 29:58 ) 
+Navami ( 23:17 ) 
+Krishna
+Dhriti ( 25:52 ) 
+Taitula ( 10:13 )  , Garija ( 23:17 ) 
+08:11 PM - 07:42 AM
+
+------------------------------------------------------
+Sat Jan 13 06:00:00 EST 2007
+Saturday
+Vishakha ( 31:58 ) 
+Dasami ( 24:59 ) 
+Krishna
+Sula ( 26:00 ) 
+Vanija ( 12:13 )  , Visti ( 24:59 ) 
+08:12 PM - 07:43 AM
+
+------------------------------------------------------
+Sun Jan 14 06:00:00 EST 2007
+Sunday
+Vishakha ( 07:58 ) 
+Ekaadasi ( 25:59 ) 
+Krishna
+Ganda ( 25:35 ) 
+Bava ( 13:35 )  , Balava ( 25:59 ) 
+08:12 PM - 07:43 AM
+
+------------------------------------------------------
+Mon Jan 15 06:00:00 EST 2007
+Monday
+Anuradha ( 09:18 ) 
+Dvaadasi ( 26:14 ) 
+Krishna
+Vriddhi ( 24:37 ) 
+Kaulava ( 14:12 )  , Taitula ( 26:14 ) 
+08:12 PM - 07:44 AM
+
+------------------------------------------------------
+Tue Jan 16 06:00:00 EST 2007
+Tuesday
+Jyeshta ( 09:54 ) 
+Thrayodasi ( 25:46 ) 
+Krishna
+Dhruva ( 23:05 ) 
+Garija ( 14:05 )  , Vanija ( 25:46 ) 
+08:12 PM - 07:44 AM
+
+------------------------------------------------------
+Wed Jan 17 06:00:00 EST 2007
+Wednesday
+Moola ( 09:49 ) 
+Chathurdasi ( 24:39 ) 
+Krishna
+Vyaghat ( 21:02 ) 
+Visti ( 13:17 )  , Sakuna ( 24:39 ) 
+08:12 PM - 07:45 AM
+
+------------------------------------------------------
+Thu Jan 18 06:00:00 EST 2007
+Thursday
+Purva Ashadha ( 09:08 ) 
+Amavasya ( 23:00 ) 
+Krishna
+Harshana ( 18:33 ) 
+Chatushpada ( 11:53 )  , Naga ( 23:00 ) 
+08:13 PM - 07:45 AM
+
+------------------------------------------------------
+Fri Jan 19 06:00:00 EST 2007
+Friday
+Uttra Ashadha  ( 08:00 ) 
+Prathamai ( 20:58 ) 
+Shukla
+Vajra ( 15:44 ) 
+Kimstughna ( 10:02 )  , Bava ( 20:58 ) 
+08:13 PM - 07:46 AM
+
+------------------------------------------------------
+Sat Jan 20 06:00:00 EST 2007
+Saturday
+Shravana ( 06:31 ) 
+Dvithiyai ( 18:40 ) 
+Shukla
+Siddhi ( 12:41 ) 
+Balava ( 07:50 )  , Kaulava ( 18:40 ) 
+08:13 PM - 07:46 AM
+
+------------------------------------------------------
+Sun Jan 21 06:00:00 EST 2007
+Sunday
+Shatabhisha ( 27:04 ) 
+Thrithiyai ( 16:14 ) 
+Shukla
+Vyatipatha ( 09:30 ) 
+Garija ( 16:14 )  , Vanija ( 26:59 ) 
+08:13 PM - 07:47 AM
+
+------------------------------------------------------
+Mon Jan 22 06:00:00 EST 2007
+Monday
+Purva Bhadrapada ( 25:20 ) 
+Chathruthi ( 13:46 ) 
+Shukla
+Variyan ( 06:15 ) 
+Visti ( 13:46 )  , Bava ( 24:33 ) 
+08:13 PM - 07:47 AM
+
+------------------------------------------------------
+Tue Jan 23 06:00:00 EST 2007
+Tuesday
+Uttra Bhadrapada ( 23:41 ) 
+Panchami ( 11:21 ) 
+Shukla
+Siva ( 23:55 ) 
+Balava ( 11:21 )  , Kaulava ( 22:12 ) 
+08:13 PM - 07:48 AM
+
+------------------------------------------------------
+Wed Jan 24 06:00:00 EST 2007
+Wednesday
+Revathi ( 22:12 ) 
+Sashti ( 09:05 ) 
+Shukla
+Siddha ( 20:56 ) 
+Taitula ( 09:05 )  , Garija ( 20:00 ) 
+08:13 PM - 07:48 AM
+
+------------------------------------------------------
+Thu Jan 25 06:00:00 EST 2007
+Thursday
+Ashwini ( 20:55 ) 
+Sapthami ( 06:59 ) 
+Shukla
+Sadhya ( 18:06 ) 
+Vanija ( 06:59 )  , Visti ( 18:01 ) 
+08:13 PM - 07:49 AM
+
+------------------------------------------------------
+Fri Jan 26 06:00:00 EST 2007
+Friday
+Bharani ( 19:52 ) 
+Navami ( 27:28 ) 
+Shukla
+Subha ( 15:27 ) 
+Balava ( 16:15 )  , Kaulava ( 27:28 ) 
+08:13 PM - 07:49 AM
+
+------------------------------------------------------
+Sat Jan 27 06:00:00 EST 2007
+Saturday
+Krithika ( 19:04 ) 
+Dasami ( 26:07 ) 
+Shukla
+Sukla ( 13:01 ) 
+Taitula ( 14:45 )  , Garija ( 26:07 ) 
+08:13 PM - 07:50 AM
+
+------------------------------------------------------
+Sun Jan 28 06:00:00 EST 2007
+Sunday
+Rohini ( 18:34 ) 
+Ekaadasi ( 25:04 ) 
+Shukla
+Brahma ( 10:48 ) 
+Vanija ( 13:33 )  , Visti ( 25:04 ) 
+08:13 PM - 07:50 AM
+
+------------------------------------------------------
+Mon Jan 29 06:00:00 EST 2007
+Monday
+Mrigasira ( 18:23 ) 
+Dvaadasi ( 24:21 ) 
+Shukla
+Indra ( 08:51 ) 
+Bava ( 12:39 )  , Balava ( 24:21 ) 
+08:13 PM - 07:50 AM
+
+------------------------------------------------------
+Tue Jan 30 06:00:00 EST 2007
+Tuesday
+Ardra ( 18:34 ) 
+Thrayodasi ( 24:01 ) 
+Shukla
+Vaidhriti ( 30515:33 ) 
+Kaulava ( 12:08 )  , Taitula ( 24:01 ) 
+08:13 PM - 07:51 AM
+
+------------------------------------------------------
+Wed Jan 31 06:00:00 EST 2007
+Wednesday
+Punarvasu ( 19:11 ) 
+Chathurdasi ( 24:09 ) 
+Shukla
+Priti ( 28:48 ) 
+Garija ( 12:01 )  , Vanija ( 24:09 ) 
+08:13 PM - 07:51 AM
+
+------------------------------------------------------
+Thu Feb 01 06:00:00 EST 2007
+Thursday
+Pushyami ( 20:15 ) 
+Pournami ( 24:45 ) 
+Shukla
+Ayushman ( 28:10 ) 
+Visti ( 12:23 )  , Bava ( 24:45 ) 
+08:13 PM - 07:52 AM
+
+------------------------------------------------------
+Fri Feb 02 06:00:00 EST 2007
+Friday
+Ashlesha ( 21:48 ) 
+Prathamai ( 25:52 ) 
+Krishna
+Saubhagya ( 27:55 ) 
+Balava ( 13:15 )  , Kaulava ( 25:52 ) 
+08:13 PM - 07:52 AM
+
+------------------------------------------------------
+Sat Feb 03 06:00:00 EST 2007
+Saturday
+Magha ( 23:52 ) 
+Dvithiyai ( 27:30 ) 
+Krishna
+Sobhana ( 28:04 ) 
+Taitula ( 14:37 )  , Garija ( 27:30 ) 
+08:13 PM - 07:52 AM
+
+------------------------------------------------------
+Sun Feb 04 06:00:00 EST 2007
+Sunday
+Purva Phalguni ( 26:22 ) 
+Thrithiyai ( 29:37 ) 
+Krishna
+Atiganda ( 28:34 ) 
+Vanija ( 16:30 )  , Visti ( 29:37 ) 
+08:12 PM - 07:53 AM
+
+------------------------------------------------------
+Mon Feb 05 06:00:00 EST 2007
+Monday
+Uttra Phalguni ( 29:15 ) 
+Chathruthi ( 32:05 ) 
+Krishna
+Sukarma ( 29:21 ) 
+Bava ( 18:49 )  , Balava ( 32:05 ) 
+08:12 PM - 07:53 AM
+
+------------------------------------------------------
+Tue Feb 06 06:00:00 EST 2007
+Tuesday
+Hasta ( 32:20 ) 
+Chathruthi ( 08:05 ) 
+Krishna
+Dhriti ( 30:17 ) 
+Balava ( 08:05 )  , Kaulava ( 21:24 ) 
+08:12 PM - 07:53 AM
+
+------------------------------------------------------
+Wed Feb 07 06:00:00 EST 2007
+Wednesday
+Hasta ( 08:20 ) 
+Panchami ( 10:45 ) 
+Krishna
+Dhriti ( 06:17 ) 
+Taitula ( 10:45 )  , Garija ( 24:06 ) 
+08:12 PM - 07:54 AM
+
+------------------------------------------------------
+Thu Feb 08 06:00:00 EST 2007
+Thursday
+Chitra ( 11:25 ) 
+Sashti ( 13:24 ) 
+Krishna
+Sula ( 07:15 ) 
+Vanija ( 13:24 )  , Visti ( 26:39 ) 
+08:12 PM - 07:54 AM
+
+------------------------------------------------------
+Fri Feb 09 06:00:00 EST 2007
+Friday
+Swathi ( 14:17 ) 
+Sapthami ( 15:48 ) 
+Krishna
+Ganda ( 08:04 ) 
+Bava ( 15:48 )  , Balava ( 28:51 ) 
+08:12 PM - 07:54 AM
+
+------------------------------------------------------
+Sat Feb 10 06:00:00 EST 2007
+Saturday
+Vishakha ( 16:43 ) 
+Ashtami ( 17:44 ) 
+Krishna
+Vriddhi ( 08:34 ) 
+Kaulava ( 17:44 )  , Taitula ( 30:28 ) 
+08:11 PM - 07:55 AM
+
+------------------------------------------------------
+Sun Feb 11 06:00:00 EST 2007
+Sunday
+Anuradha ( 18:31 ) 
+Navami ( 19:00 ) 
+Krishna
+Dhruva ( 08:38 ) 
+Taitula ( 06:28 )  , Garija ( 19:00 ) 
+08:11 PM - 07:55 AM
+
+------------------------------------------------------
+Mon Feb 12 06:00:00 EST 2007
+Monday
+Jyeshta ( 19:35 ) 
+Dasami ( 19:30 ) 
+Krishna
+Vyaghat ( 08:08 ) 
+Vanija ( 07:21 )  , Visti ( 19:30 ) 
+08:11 PM - 07:55 AM
+
+------------------------------------------------------
+Tue Feb 13 06:00:00 EST 2007
+Tuesday
+Moola ( 19:53 ) 
+Ekaadasi ( 19:12 ) 
+Krishna
+Harshana ( 07:02 ) 
+Bava ( 07:27 )  , Balava ( 19:12 ) 
+08:10 PM - 07:55 AM
+
+------------------------------------------------------
+Wed Feb 14 06:00:00 EST 2007
+Wednesday
+Purva Ashadha ( 19:25 ) 
+Dvaadasi ( 18:07 ) 
+Krishna
+Siddhi ( 27:00 ) 
+Kaulava ( 06:45 )  , Taitula ( 18:07 ) 
+08:10 PM - 07:56 AM
+
+------------------------------------------------------
+Thu Feb 15 06:00:00 EST 2007
+Thursday
+Uttra Ashadha  ( 18:17 ) 
+Thrayodasi ( 16:21 ) 
+Krishna
+Vyatipatha ( 24:10 ) 
+Vanija ( 16:21 )  , Visti ( 27:14 ) 
+08:10 PM - 07:56 AM
+
+------------------------------------------------------
+Fri Feb 16 06:00:00 EST 2007
+Friday
+Shravana ( 16:36 ) 
+Chathurdasi ( 14:00 ) 
+Krishna
+Variyan ( 20:55 ) 
+Sakuna ( 14:00 )  , Chatushpada ( 24:40 ) 
+08:09 PM - 07:56 AM
+
+------------------------------------------------------
+Sat Feb 17 06:00:00 EST 2007
+Saturday
+Dhanishta ( 14:31 ) 
+Amavasya ( 11:14 ) 
+Krishna
+Parigha ( 17:22 ) 
+Naga ( 11:14 )  , Kimstughna ( -0-346:0-44 ) 
+08:09 PM - 07:56 AM
+
+------------------------------------------------------
+Sun Feb 18 06:00:00 EST 2007
+Sunday
+Shatabhisha ( 12:10 ) 
+Prathamai ( 08:11 ) 
+Shukla
+Siva ( 13:37 ) 
+Bava ( 08:11 )  , Balava ( 18:36 ) 
+08:09 PM - 07:57 AM
+
+------------------------------------------------------
+Mon Feb 19 06:00:00 EST 2007
+Monday
+Purva Bhadrapada ( 09:43 ) 
+Thrithiyai ( 25:50 ) 
+Shukla
+Siddha ( 09:48 ) 
+Taitula ( 15:24 )  , Garija ( 25:50 ) 
+08:08 PM - 07:57 AM
+
+------------------------------------------------------
+Tue Feb 20 06:00:00 EST 2007
+Tuesday
+Uttra Bhadrapada ( 07:18 ) 
+Chathruthi ( 22:48 ) 
+Shukla
+Sadhya ( 06:01 ) 
+Vanija ( 12:17 )  , Visti ( 22:48 ) 
+08:08 PM - 07:57 AM
+
+------------------------------------------------------
+Wed Feb 21 06:00:00 EST 2007
+Wednesday
+Ashwini ( 27:10 ) 
+Panchami ( 20:03 ) 
+Shukla
+Sukla ( 22:58 ) 
+Bava ( 09:23 )  , Balava ( 20:03 ) 
+08:08 PM - 07:57 AM
+
+------------------------------------------------------
+Thu Feb 22 06:00:00 EST 2007
+Thursday
+Bharani ( 25:37 ) 
+Sashti ( 17:40 ) 
+Shukla
+Brahma ( 19:52 ) 
+Kaulava ( 06:48 )  , Taitula ( 17:40 ) 
+08:07 PM - 07:57 AM
+
+------------------------------------------------------
+Fri Feb 23 06:00:00 EST 2007
+Friday
+Krithika ( 24:33 ) 
+Sapthami ( 15:43 ) 
+Shukla
+Indra ( 17:07 ) 
+Vanija ( 15:43 )  , Visti ( 26:55 ) 
+08:07 PM - 07:57 AM
+
+------------------------------------------------------
+Sat Feb 24 06:00:00 EST 2007
+Saturday
+Rohini ( 23:58 ) 
+Ashtami ( 14:16 ) 
+Shukla
+Vaidhriti ( 14:47 ) 
+Bava ( 14:16 )  , Balava ( 25:44 ) 
+08:06 PM - 07:58 AM
+
+------------------------------------------------------
+Sun Feb 25 06:00:00 EST 2007
+Sunday
+Mrigasira ( 23:55 ) 
+Navami ( 13:20 ) 
+Shukla
+Vishakambha ( 12:52 ) 
+Kaulava ( 13:20 )  , Taitula ( 25:04 ) 
+08:06 PM - 07:58 AM
+
+------------------------------------------------------
+Mon Feb 26 06:00:00 EST 2007
+Monday
+Ardra ( 24:23 ) 
+Dasami ( 12:56 ) 
+Shukla
+Priti ( 11:22 ) 
+Garija ( 12:56 )  , Vanija ( 24:56 ) 
+08:05 PM - 07:58 AM
+
+------------------------------------------------------
+Tue Feb 27 06:00:00 EST 2007
+Tuesday
+Punarvasu ( 25:21 ) 
+Ekaadasi ( 13:04 ) 
+Shukla
+Ayushman ( 10:16 ) 
+Visti ( 13:04 )  , Bava ( 25:20 ) 
+08:05 PM - 07:58 AM
+
+------------------------------------------------------
+Wed Feb 28 06:00:00 EST 2007
+Wednesday
+Pushyami ( 26:48 ) 
+Dvaadasi ( 13:42 ) 
+Shukla
+Saubhagya ( 09:35 ) 
+Balava ( 13:42 )  , Kaulava ( 26:12 ) 
+08:04 PM - 07:58 AM
+
+------------------------------------------------------
+Thu Mar 01 06:00:00 EST 2007
+Thursday
+Ashlesha ( 28:40 ) 
+Thrayodasi ( 14:49 ) 
+Shukla
+Sobhana ( 09:15 ) 
+Taitula ( 14:49 )  , Garija ( 27:32 ) 
+08:04 PM - 07:58 AM
+
+------------------------------------------------------
+Fri Mar 02 06:00:00 EST 2007
+Friday
+Magha ( 30:56 ) 
+Chathurdasi ( 16:21 ) 
+Shukla
+Atiganda ( 09:15 ) 
+Vanija ( 16:21 )  , Visti ( 29:16 ) 
+08:03 PM - 07:58 AM
+
+------------------------------------------------------
+Sat Mar 03 06:00:00 EST 2007
+Saturday
+Magha ( 06:56 ) 
+Pournami ( 18:17 ) 
+Shukla
+Sukarma ( 09:34 ) 
+Bava ( 18:17 )  , Balava ( 31:22 ) 
+08:03 PM - 07:59 AM
+
+------------------------------------------------------
+Sun Mar 04 06:00:00 EST 2007
+Sunday
+Purva Phalguni ( 09:32 ) 
+Prathamai ( 20:32 ) 
+Krishna
+Dhriti ( 10:08 ) 
+Balava ( 07:22 )  , Kaulava ( 20:32 ) 
+08:02 PM - 07:59 AM
+
+------------------------------------------------------
+Mon Mar 05 06:00:00 EST 2007
+Monday
+Uttra Phalguni ( 12:24 ) 
+Dvithiyai ( 23:01 ) 
+Krishna
+Sula ( 10:55 ) 
+Taitula ( 09:45 )  , Garija ( 23:01 ) 
+08:02 PM - 07:59 AM
+
+------------------------------------------------------
+Tue Mar 06 06:00:00 EST 2007
+Tuesday
+Hasta ( 15:27 ) 
+Thrithiyai ( 25:38 ) 
+Krishna
+Ganda ( 11:51 ) 
+Vanija ( 12:19 )  , Visti ( 25:38 ) 
+08:01 PM - 07:59 AM
+
+------------------------------------------------------
+Wed Mar 07 06:00:00 EST 2007
+Wednesday
+Chitra ( 18:32 ) 
+Chathruthi ( 28:15 ) 
+Krishna
+Vriddhi ( 12:49 ) 
+Bava ( 14:57 )  , Balava ( 28:15 ) 
+08:01 PM - 07:59 AM
+
+------------------------------------------------------
+Thu Mar 08 06:00:00 EST 2007
+Thursday
+Swathi ( 21:31 ) 
+Panchami ( 30:42 ) 
+Krishna
+Dhruva ( 13:45 ) 
+Kaulava ( 17:30 )  , Taitula ( 30:42 ) 
+08:00 PM - 07:59 AM
+
+------------------------------------------------------
+Fri Mar 09 06:00:00 EST 2007
+Friday
+Vishakha ( 24:14 ) 
+Panchami ( 06:42 ) 
+Krishna
+Vyaghat ( 14:29 ) 
+Taitula ( 06:42 )  , Garija ( 19:48 ) 
+08:00 PM - 07:59 AM
+
+------------------------------------------------------
+Sat Mar 10 06:00:00 EST 2007
+Saturday
+Anuradha ( 27:30 ) 
+Sashti ( 08:47 ) 
+Krishna
+Harshana ( 14:56 ) 
+Vanija ( 08:47 )  , Visti ( 21:39 ) 
+07:59 PM - 07:59 AM
+
+------------------------------------------------------
+Sun Mar 11 06:00:00 EDT 2007
+Sunday
+Jyeshta ( 29:10 ) 
+Sapthami ( 10:21 ) 
+Krishna
+Vajra ( 14:58 ) 
+Bava ( 10:21 )  , Balava ( 22:54 ) 
+07:59 PM - 07:59 AM
+
+------------------------------------------------------
+Mon Mar 12 06:00:00 EDT 2007
+Monday
+Moola ( 30:07 ) 
+Ashtami ( 12:15 ) 
+Krishna
+Siddhi ( 15:28 ) 
+Kaulava ( 12:15 )  , Taitula ( 24:25 ) 
+08:58 PM - 08:59 AM
+
+------------------------------------------------------
+Tue Mar 13 06:00:00 EDT 2007
+Tuesday
+Moola ( 06:07 ) 
+Navami ( 12:24 ) 
+Krishna
+Vyatipatha ( 14:23 ) 
+Garija ( 12:24 )  , Vanija ( 24:10 ) 
+08:57 PM - 08:59 AM
+
+------------------------------------------------------
+Wed Mar 14 06:00:00 EDT 2007
+Wednesday
+Purva Ashadha ( 06:19 ) 
+Dasami ( 11:45 ) 
+Krishna
+Variyan ( 12:40 ) 
+Visti ( 11:45 )  , Bava ( 23:07 ) 
+08:57 PM - 08:59 AM
+
+------------------------------------------------------
+Thu Mar 15 06:00:00 EDT 2007
+Thursday
+Shravana ( 28:26 ) 
+Ekaadasi ( 10:19 ) 
+Krishna
+Parigha ( 10:20 ) 
+Balava ( 10:19 )  , Kaulava ( 21:19 ) 
+08:56 PM - 08:59 AM
+
+------------------------------------------------------
+Fri Mar 16 06:00:00 EDT 2007
+Friday
+Dhanishta ( 26:31 ) 
+Dvaadasi ( 08:10 ) 
+Krishna
+Siva ( 07:27 ) 
+Taitula ( 08:10 )  , Garija ( 18:52 ) 
+08:56 PM - 08:59 AM
+
+------------------------------------------------------
+Sat Mar 17 06:00:00 EDT 2007
+Saturday
+Shatabhisha ( 24:07 ) 
+Chathurdasi ( 26:13 ) 
+Krishna
+Sadhya ( 24:17 ) 
+Visti ( 15:52 )  , Sakuna ( 26:13 ) 
+08:55 PM - 08:59 AM
+
+------------------------------------------------------
+Sun Mar 18 06:00:00 EDT 2007
+Sunday
+Purva Bhadrapada ( 21:23 ) 
+Amavasya ( 22:42 ) 
+Krishna
+Subha ( 20:14 ) 
+Chatushpada ( 12:29 )  , Naga ( 22:42 ) 
+08:54 PM - 08:59 AM
+
+------------------------------------------------------
+Mon Mar 19 06:00:00 EDT 2007
+Monday
+Uttra Bhadrapada ( 18:30 ) 
+Prathamai ( 19:02 ) 
+Shukla
+Sukla ( 16:03 ) 
+Kimstughna ( 08:52 )  , Bava ( 19:02 ) 
+08:54 PM - 08:59 AM
+
+------------------------------------------------------
+Tue Mar 20 06:00:00 EDT 2007
+Tuesday
+Revathi ( 15:37 ) 
+Dvithiyai ( 15:23 ) 
+Shukla
+Brahma ( 11:52 ) 
+Kaulava ( 15:23 )  , Taitula ( 25:37 ) 
+08:53 PM - 08:59 AM
+
+------------------------------------------------------
+Wed Mar 21 06:00:00 EDT 2007
+Wednesday
+Ashwini ( 12:56 ) 
+Thrithiyai ( 11:54 ) 
+Shukla
+Indra ( 07:48 ) 
+Garija ( 11:54 )  , Vanija ( 22:17 ) 
+08:53 PM - 08:59 AM
+
+------------------------------------------------------
+Thu Mar 22 06:00:00 EDT 2007
+Thursday
+Bharani ( 10:35 ) 
+Chathruthi ( 08:46 ) 
+Shukla
+Vishakambha ( 24:34 ) 
+Visti ( 08:46 )  , Bava ( 19:22 ) 
+08:52 PM - 09:00 AM
+
+------------------------------------------------------
+Fri Mar 23 06:00:00 EDT 2007
+Friday
+Krithika ( 08:44 ) 
+Panchami ( 06:07 ) 
+Shukla
+Priti ( 21:36 ) 
+Balava ( 06:07 )  , Kaulava ( 17:00 ) 
+08:51 PM - 09:00 AM
+
+------------------------------------------------------
+Sat Mar 24 06:00:00 EDT 2007
+Saturday
+Rohini ( 07:29 ) 
+Sapthami ( 26:41 ) 
+Shukla
+Ayushman ( 19:10 ) 
+Garija ( 15:17 )  , Vanija ( 26:41 ) 
+08:51 PM - 09:00 AM
+
+------------------------------------------------------
+Sun Mar 25 06:00:00 EDT 2007
+Sunday
+Mrigasira ( 06:55 ) 
+Ashtami ( 26:02 ) 
+Shukla
+Saubhagya ( 17:18 ) 
+Visti ( 14:16 )  , Bava ( 26:02 ) 
+08:50 PM - 09:00 AM
+
+------------------------------------------------------
+Mon Mar 26 06:00:00 EDT 2007
+Monday
+Ardra ( 07:05 ) 
+Navami ( 26:06 ) 
+Shukla
+Sobhana ( 16:02 ) 
+Balava ( 13:59 )  , Kaulava ( 26:06 ) 
+08:50 PM - 09:00 AM
+
+------------------------------------------------------
+Tue Mar 27 06:00:00 EDT 2007
+Tuesday
+Punarvasu ( 07:56 ) 
+Dasami ( 26:52 ) 
+Shukla
+Atiganda ( 15:18 ) 
+Taitula ( 14:24 )  , Garija ( 26:52 ) 
+08:49 PM - 09:00 AM
+
+------------------------------------------------------
+Wed Mar 28 06:00:00 EDT 2007
+Wednesday
+Pushyami ( 09:26 ) 
+Ekaadasi ( 28:13 ) 
+Shukla
+Sukarma ( 15:04 ) 
+Vanija ( 15:29 )  , Visti ( 28:13 ) 
+08:48 PM - 09:00 AM
+
+------------------------------------------------------
+Thu Mar 29 06:00:00 EDT 2007
+Thursday
+Ashlesha ( 11:29 ) 
+Dvaadasi ( 30:03 ) 
+Shukla
+Dhriti ( 15:15 ) 
+Bava ( 17:05 )  , Balava ( 30:03 ) 
+08:48 PM - 09:00 AM
+
+------------------------------------------------------
+Fri Mar 30 06:00:00 EDT 2007
+Friday
+Magha ( 13:58 ) 
+Dvaadasi ( 06:03 ) 
+Shukla
+Sula ( 15:46 ) 
+Balava ( 06:03 )  , Kaulava ( 19:07 ) 
+08:47 PM - 09:00 AM
+
+------------------------------------------------------
+Sat Mar 31 06:00:00 EDT 2007
+Saturday
+Purva Phalguni ( 16:45 ) 
+Thrayodasi ( 08:15 ) 
+Shukla
+Ganda ( 16:31 ) 
+Taitula ( 08:15 )  , Garija ( 21:27 ) 
+08:46 PM - 09:00 AM
+
+------------------------------------------------------
+Sun Apr 01 06:00:00 EDT 2007
+Sunday
+Uttra Phalguni ( 19:44 ) 
+Chathurdasi ( 10:41 ) 
+Shukla
+Vriddhi ( 17:25 ) 
+Vanija ( 10:41 )  , Visti ( 23:57 ) 
+08:46 PM - 09:00 AM
+
+------------------------------------------------------
+Mon Apr 02 06:00:00 EDT 2007
+Monday
+Hasta ( 22:48 ) 
+Pournami ( 13:15 ) 
+Shukla
+Dhruva ( 18:24 ) 
+Bava ( 13:15 )  , Balava ( 26:32 ) 
+08:45 PM - 09:00 AM
+
+------------------------------------------------------
+Tue Apr 03 06:00:00 EDT 2007
+Tuesday
+Chitra ( 25:51 ) 
+Prathamai ( 15:49 ) 
+Krishna
+Vyaghat ( 19:23 ) 
+Kaulava ( 15:49 )  , Taitula ( 29:05 ) 
+08:45 PM - 09:00 AM
+
+------------------------------------------------------
+Wed Apr 04 06:00:00 EDT 2007
+Wednesday
+Swathi ( 28:48 ) 
+Dvithiyai ( 18:19 ) 
+Krishna
+Harshana ( 20:17 ) 
+Garija ( 18:19 )  , Vanija ( 31:31 ) 
+08:44 PM - 09:00 AM
+
+------------------------------------------------------
+Thu Apr 05 06:00:00 EDT 2007
+Thursday
+Vishakha ( 31:32 ) 
+Thrithiyai ( 20:39 ) 
+Krishna
+Vajra ( 21:04 ) 
+Vanija ( 07:31 )  , Visti ( 20:39 ) 
+08:43 PM - 09:00 AM
+
+------------------------------------------------------
+Fri Apr 06 06:00:00 EDT 2007
+Friday
+Vishakha ( 07:32 ) 
+Chathruthi ( 22:41 ) 
+Krishna
+Siddhi ( 21:38 ) 
+Bava ( 09:42 )  , Balava ( 22:41 ) 
+08:43 PM - 09:00 AM
+
+------------------------------------------------------
+Sat Apr 07 06:00:00 EDT 2007
+Saturday
+Anuradha ( 09:58 ) 
+Panchami ( 24:20 ) 
+Krishna
+Vyatipatha ( 21:55 ) 
+Kaulava ( 11:34 )  , Taitula ( 24:20 ) 
+08:42 PM - 09:00 AM
+
+------------------------------------------------------
+Sun Apr 08 06:00:00 EDT 2007
+Sunday
+Jyeshta ( 11:59 ) 
+Sashti ( 25:29 ) 
+Krishna
+Variyan ( 21:50 ) 
+Garija ( 12:59 )  , Vanija ( 25:29 ) 
+08:42 PM - 09:00 AM
+
+------------------------------------------------------
+Mon Apr 09 06:00:00 EDT 2007
+Monday
+Moola ( 13:27 ) 
+Sapthami ( 26:02 ) 
+Krishna
+Parigha ( 21:17 ) 
+Visti ( 13:51 )  , Bava ( 26:02 ) 
+08:41 PM - 09:00 AM
+
+------------------------------------------------------
+Tue Apr 10 06:00:00 EDT 2007
+Tuesday
+Purva Ashadha ( 14:19 ) 
+Ashtami ( 25:54 ) 
+Krishna
+Siva ( 20:13 ) 
+Balava ( 14:04 )  , Kaulava ( 25:54 ) 
+08:40 PM - 09:00 AM
+
+------------------------------------------------------
+Wed Apr 11 06:00:00 EDT 2007
+Wednesday
+Uttra Ashadha  ( 14:29 ) 
+Navami ( 25:03 ) 
+Krishna
+Siddha ( 18:35 ) 
+Taitula ( 13:34 )  , Garija ( 25:03 ) 
+08:40 PM - 09:00 AM
+
+------------------------------------------------------
+Thu Apr 12 06:00:00 EDT 2007
+Thursday
+Shravana ( 13:56 ) 
+Dasami ( 23:29 ) 
+Krishna
+Sadhya ( 16:23 ) 
+Vanija ( 12:21 )  , Visti ( 23:29 ) 
+08:39 PM - 09:00 AM
+
+------------------------------------------------------
+Fri Apr 13 06:00:00 EDT 2007
+Friday
+Dhanishta ( 12:41 ) 
+Ekaadasi ( 21:13 ) 
+Krishna
+Subha ( 13:36 ) 
+Bava ( 10:26 )  , Balava ( 21:13 ) 
+08:39 PM - 09:00 AM
+
+------------------------------------------------------
+Sat Apr 14 06:00:00 EDT 2007
+Saturday
+Shatabhisha ( 10:49 ) 
+Dvaadasi ( 18:23 ) 
+Krishna
+Sukla ( 10:20 ) 
+Kaulava ( 07:52 )  , Taitula ( 18:23 ) 
+08:38 PM - 09:00 AM
+
+------------------------------------------------------
+Sun Apr 15 06:00:00 EDT 2007
+Sunday
+Purva Bhadrapada ( 08:26 ) 
+Thrayodasi ( 15:03 ) 
+Krishna
+Brahma ( 06:37 ) 
+Vanija ( 15:03 )  , Visti ( 25:16 ) 
+08:38 PM - 09:00 AM
+
+------------------------------------------------------
+Mon Apr 16 06:00:00 EDT 2007
+Monday
+Revathi ( 26:41 ) 
+Chathurdasi ( 11:25 ) 
+Krishna
+Vaidhriti ( 640:02 ) 
+Sakuna ( 11:25 )  , Chatushpada ( 21:31 ) 
+08:37 PM - 09:00 AM
+
+------------------------------------------------------
+Tue Apr 17 06:00:00 EDT 2007
+Tuesday
+Ashwini ( 23:39 ) 
+Amavasya ( 07:36 ) 
+Krishna
+Vishakambha ( 18:03 ) 
+Naga ( 07:36 )  , Kimstughna ( 17:41 ) 
+08:37 PM - 09:00 AM
+
+------------------------------------------------------
+Wed Apr 18 06:00:00 EDT 2007
+Wednesday
+Bharani ( 20:47 ) 
+Dvithiyai ( 24:10 ) 
+Shukla
+Priti ( 13:51 ) 
+Balava ( 13:56 )  , Kaulava ( 24:10 ) 
+08:36 PM - 09:00 AM
+
+------------------------------------------------------
+Thu Apr 19 06:00:00 EDT 2007
+Thursday
+Krithika ( 18:16 ) 
+Thrithiyai ( 20:55 ) 
+Shukla
+Ayushman ( 09:52 ) 
+Taitula ( 10:29 )  , Garija ( 20:55 ) 
+08:35 PM - 09:00 AM
+
+------------------------------------------------------
+Fri Apr 20 06:00:00 EDT 2007
+Friday
+Rohini ( 16:15 ) 
+Chathruthi ( 18:11 ) 
+Shukla
+Saubhagya ( 06:16 ) 
+Vanija ( 07:28 )  , Visti ( 18:11 ) 
+08:35 PM - 09:00 AM
+
+------------------------------------------------------
+Sat Apr 21 06:00:00 EDT 2007
+Saturday
+Mrigasira ( 14:54 ) 
+Panchami ( 16:09 ) 
+Shukla
+Atiganda ( 24:39 ) 
+Balava ( 16:09 )  , Kaulava ( 27:25 ) 
+08:34 PM - 09:01 AM
+
+------------------------------------------------------
+Sun Apr 22 06:00:00 EDT 2007
+Sunday
+Ardra ( 14:20 ) 
+Sashti ( 14:53 ) 
+Shukla
+Sukarma ( 22:48 ) 
+Taitula ( 14:53 )  , Garija ( 26:34 ) 
+08:34 PM - 09:01 AM
+
+------------------------------------------------------
+Mon Apr 23 06:00:00 EDT 2007
+Monday
+Punarvasu ( 14:36 ) 
+Sapthami ( 14:28 ) 
+Shukla
+Dhriti ( 21:37 ) 
+Vanija ( 14:28 )  , Visti ( 26:35 ) 
+08:33 PM - 09:01 AM
+
+------------------------------------------------------
+Tue Apr 24 06:00:00 EDT 2007
+Tuesday
+Pushyami ( 15:41 ) 
+Ashtami ( 14:54 ) 
+Shukla
+Sula ( 21:05 ) 
+Bava ( 14:54 )  , Balava ( 27:24 ) 
+08:33 PM - 09:01 AM
+
+------------------------------------------------------
+Wed Apr 25 06:00:00 EDT 2007
+Wednesday
+Ashlesha ( 17:29 ) 
+Navami ( 16:05 ) 
+Shukla
+Ganda ( 21:07 ) 
+Kaulava ( 16:05 )  , Taitula ( 28:55 ) 
+08:33 PM - 09:01 AM
+
+------------------------------------------------------
+Thu Apr 26 06:00:00 EDT 2007
+Thursday
+Magha ( 19:54 ) 
+Dasami ( 17:53 ) 
+Shukla
+Vriddhi ( 21:37 ) 
+Garija ( 17:53 )  , Vanija ( 30:59 ) 
+08:32 PM - 09:01 AM
+
+------------------------------------------------------
+Fri Apr 27 06:00:00 EDT 2007
+Friday
+Purva Phalguni ( 22:44 ) 
+Ekaadasi ( 20:09 ) 
+Shukla
+Dhruva ( 22:25 ) 
+Vanija ( 06:59 )  , Visti ( 20:09 ) 
+08:32 PM - 09:01 AM
+
+------------------------------------------------------
+Sat Apr 28 06:00:00 EDT 2007
+Saturday
+Uttra Phalguni ( 25:47 ) 
+Dvaadasi ( 22:40 ) 
+Shukla
+Vyaghat ( 23:25 ) 
+Bava ( 09:23 )  , Balava ( 22:40 ) 
+08:31 PM - 09:01 AM
+
+------------------------------------------------------
+Sun Apr 29 06:00:00 EDT 2007
+Sunday
+Hasta ( 28:54 ) 
+Thrayodasi ( 25:16 ) 
+Shukla
+Harshana ( 24:29 ) 
+Kaulava ( 11:58 )  , Taitula ( 25:16 ) 
+08:31 PM - 09:01 AM
+
+------------------------------------------------------
+Mon Apr 30 06:00:00 EDT 2007
+Monday
+Chitra ( 31:57 ) 
+Chathurdasi ( 27:48 ) 
+Shukla
+Vajra ( 25:29 ) 
+Garija ( 14:33 )  , Vanija ( 27:48 ) 
+08:30 PM - 09:02 AM
+
+------------------------------------------------------
+Tue May 01 06:00:00 EDT 2007
+Tuesday
+Chitra ( 07:57 ) 
+Pournami ( 30:09 ) 
+Shukla
+Siddhi ( 26:23 ) 
+Visti ( 17:00 )  , Bava ( 30:09 ) 
+08:30 PM - 09:02 AM
+
+------------------------------------------------------
+Wed May 02 06:00:00 EDT 2007
+Wednesday
+Swathi ( 10:48 ) 
+Pournami ( 06:09 ) 
+Shukla
+Vyatipatha ( 27:05 ) 
+Bava ( 06:09 )  , Balava ( 19:14 ) 
+08:30 PM - 09:02 AM
+
+------------------------------------------------------
+Thu May 03 06:00:00 EDT 2007
+Thursday
+Vishakha ( 13:25 ) 
+Prathamai ( 08:15 ) 
+Krishna
+Variyan ( 27:34 ) 
+Kaulava ( 08:15 )  , Taitula ( 21:12 ) 
+08:29 PM - 09:02 AM
+
+------------------------------------------------------
+Fri May 04 06:00:00 EDT 2007
+Friday
+Anuradha ( 15:44 ) 
+Dvithiyai ( 10:04 ) 
+Krishna
+Parigha ( 27:48 ) 
+Garija ( 10:04 )  , Vanija ( 22:50 ) 
+08:29 PM - 09:02 AM
+
+------------------------------------------------------
+Sat May 05 06:00:00 EDT 2007
+Saturday
+Jyeshta ( 17:42 ) 
+Thrithiyai ( 11:31 ) 
+Krishna
+Siva ( 27:45 ) 
+Visti ( 11:31 )  , Bava ( 24:06 ) 
+08:28 PM - 09:02 AM
+
+------------------------------------------------------
+Sun May 06 06:00:00 EDT 2007
+Sunday
+Moola ( 19:17 ) 
+Chathruthi ( 12:35 ) 
+Krishna
+Siddha ( 27:21 ) 
+Balava ( 12:35 )  , Kaulava ( 24:57 ) 
+08:28 PM - 09:02 AM
+
+------------------------------------------------------
+Mon May 07 06:00:00 EDT 2007
+Monday
+Purva Ashadha ( 20:25 ) 
+Panchami ( 13:12 ) 
+Krishna
+Sadhya ( 26:36 ) 
+Taitula ( 13:12 )  , Garija ( 25:19 ) 
+08:28 PM - 09:03 AM
+
+------------------------------------------------------
+Tue May 08 06:00:00 EDT 2007
+Tuesday
+Uttra Ashadha  ( 21:03 ) 
+Sashti ( 13:19 ) 
+Krishna
+Subha ( 25:25 ) 
+Vanija ( 13:19 )  , Visti ( 25:10 ) 
+08:28 PM - 09:03 AM
+
+------------------------------------------------------
+Wed May 09 06:00:00 EDT 2007
+Wednesday
+Shravana ( 21:07 ) 
+Sapthami ( 12:53 ) 
+Krishna
+Sukla ( 23:47 ) 
+Bava ( 12:53 )  , Balava ( 24:26 ) 
+08:27 PM - 09:03 AM
+
+------------------------------------------------------
+Thu May 10 06:00:00 EDT 2007
+Thursday
+Dhanishta ( 20:37 ) 
+Ashtami ( 11:51 ) 
+Krishna
+Brahma ( 21:41 ) 
+Kaulava ( 11:51 )  , Taitula ( 23:07 ) 
+08:27 PM - 09:03 AM
+
+------------------------------------------------------
+Fri May 11 06:00:00 EDT 2007
+Friday
+Shatabhisha ( 19:30 ) 
+Navami ( 10:14 ) 
+Krishna
+Indra ( 19:05 ) 
+Garija ( 10:14 )  , Vanija ( 21:11 ) 
+08:27 PM - 09:03 AM
+
+------------------------------------------------------
+Sat May 12 06:00:00 EDT 2007
+Saturday
+Purva Bhadrapada ( 17:50 ) 
+Dasami ( 08:01 ) 
+Krishna
+Vaidhriti ( 8559:34 ) 
+Visti ( 08:01 )  , Bava ( 18:43 ) 
+08:26 PM - 09:04 AM
+
+------------------------------------------------------
+Sun May 13 06:00:00 EDT 2007
+Sunday
+Uttra Bhadrapada ( 15:41 ) 
+Dvaadasi ( 26:08 ) 
+Krishna
+Vishakambha ( 12:34 ) 
+Kaulava ( 15:45 )  , Taitula ( 26:08 ) 
+08:26 PM - 09:04 AM
+
+------------------------------------------------------
+Mon May 14 06:00:00 EDT 2007
+Monday
+Revathi ( 13:09 ) 
+Thrayodasi ( 22:40 ) 
+Krishna
+Priti ( 08:47 ) 
+Garija ( 12:25 )  , Vanija ( 22:40 ) 
+08:26 PM - 09:04 AM
+
+------------------------------------------------------
+Tue May 15 06:00:00 EDT 2007
+Tuesday
+Ashwini ( 10:24 ) 
+Chathurdasi ( 19:03 ) 
+Krishna
+Saubhagya ( 24:42 ) 
+Visti ( 08:52 )  , Sakuna ( 19:03 ) 
+08:26 PM - 09:04 AM
+
+------------------------------------------------------
+Wed May 16 06:00:00 EDT 2007
+Wednesday
+Bharani ( 07:36 ) 
+Amavasya ( 15:27 ) 
+Krishna
+Sobhana ( 20:40 ) 
+Naga ( 15:27 )  , Kimstughna ( 25:42 ) 
+08:25 PM - 09:05 AM
+
+------------------------------------------------------
+Thu May 17 06:00:00 EDT 2007
+Thursday
+Rohini ( 26:33 ) 
+Prathamai ( 12:02 ) 
+Shukla
+Atiganda ( 16:51 ) 
+Bava ( 12:02 )  , Balava ( 22:28 ) 
+08:25 PM - 09:05 AM
+
+------------------------------------------------------
+Fri May 18 06:00:00 EDT 2007
+Friday
+Mrigasira ( 24:41 ) 
+Dvithiyai ( 09:00 ) 
+Shukla
+Sukarma ( 13:22 ) 
+Kaulava ( 09:00 )  , Taitula ( 19:41 ) 
+08:25 PM - 09:05 AM
+
+------------------------------------------------------
+Sat May 19 06:00:00 EDT 2007
+Saturday
+Ardra ( 23:28 ) 
+Thrithiyai ( 06:31 ) 
+Shukla
+Dhriti ( 10:22 ) 
+Garija ( 06:31 )  , Vanija ( 17:32 ) 
+08:25 PM - 09:05 AM
+
+------------------------------------------------------
+Sun May 20 06:00:00 EDT 2007
+Sunday
+Punarvasu ( 23:03 ) 
+Panchami ( 27:45 ) 
+Shukla
+Sula ( 07:57 ) 
+Bava ( 16:08 )  , Balava ( 27:45 ) 
+08:25 PM - 09:05 AM
+
+------------------------------------------------------
+Mon May 21 06:00:00 EDT 2007
+Monday
+Pushyami ( 23:28 ) 
+Sashti ( 27:39 ) 
+Shukla
+Ganda ( 06:13 ) 
+Kaulava ( 15:35 )  , Taitula ( 27:39 ) 
+08:25 PM - 09:06 AM
+
+------------------------------------------------------
+Tue May 22 06:00:00 EDT 2007
+Tuesday
+Ashlesha ( 24:44 ) 
+Sapthami ( 28:23 ) 
+Shukla
+Dhruva ( 28:46 ) 
+Garija ( 15:54 )  , Vanija ( 28:23 ) 
+08:24 PM - 09:06 AM
+
+------------------------------------------------------
+Wed May 23 06:00:00 EDT 2007
+Wednesday
+Magha ( 26:45 ) 
+Ashtami ( 29:52 ) 
+Shukla
+Vyaghat ( 28:58 ) 
+Visti ( 17:02 )  , Bava ( 29:52 ) 
+08:24 PM - 09:06 AM
+
+------------------------------------------------------
+Thu May 24 06:00:00 EDT 2007
+Thursday
+Purva Phalguni ( 29:20 ) 
+Navami ( 31:55 ) 
+Shukla
+Harshana ( 29:37 ) 
+Balava ( 18:50 )  , Kaulava ( 31:55 ) 
+08:24 PM - 09:07 AM
+
+------------------------------------------------------
+Fri May 25 06:00:00 EDT 2007
+Friday
+Uttra Phalguni ( 32:18 ) 
+Navami ( 07:55 ) 
+Shukla
+Vajra ( 30:33 ) 
+Kaulava ( 07:55 )  , Taitula ( 21:06 ) 
+08:24 PM - 09:07 AM
+
+------------------------------------------------------
+Sat May 26 06:00:00 EDT 2007
+Saturday
+Uttra Phalguni ( 08:18 ) 
+Dasami ( 10:21 ) 
+Shukla
+Vajra ( 06:33 ) 
+Garija ( 10:21 )  , Vanija ( 23:38 ) 
+08:24 PM - 09:07 AM
+
+------------------------------------------------------
+Sun May 27 06:00:00 EDT 2007
+Sunday
+Hasta ( 11:24 ) 
+Ekaadasi ( 12:55 ) 
+Shukla
+Siddhi ( 07:37 ) 
+Visti ( 12:55 )  , Bava ( 26:10 ) 
+08:24 PM - 09:07 AM
+
+------------------------------------------------------
+Mon May 28 06:00:00 EDT 2007
+Monday
+Chitra ( 14:27 ) 
+Dvaadasi ( 15:23 ) 
+Shukla
+Vyatipatha ( 08:39 ) 
+Balava ( 15:23 )  , Kaulava ( 28:33 ) 
+08:24 PM - 09:08 AM
+
+------------------------------------------------------
+Tue May 29 06:00:00 EDT 2007
+Tuesday
+Swathi ( 17:16 ) 
+Thrayodasi ( 17:38 ) 
+Shukla
+Variyan ( 09:33 ) 
+Taitula ( 17:38 )  , Garija ( 30:38 ) 
+08:24 PM - 09:08 AM
+
+------------------------------------------------------
+Wed May 30 06:00:00 EDT 2007
+Wednesday
+Vishakha ( 19:46 ) 
+Chathurdasi ( 19:32 ) 
+Shukla
+Parigha ( 10:11 ) 
+Garija ( 06:38 )  , Vanija ( 19:32 ) 
+08:24 PM - 09:08 AM
+
+------------------------------------------------------
+Thu May 31 06:00:00 EDT 2007
+Thursday
+Anuradha ( 21:54 ) 
+Pournami ( 21:03 ) 
+Shukla
+Siva ( 10:33 ) 
+Visti ( 08:21 )  , Bava ( 21:03 ) 
+08:24 PM - 09:08 AM
+
+------------------------------------------------------
+Fri Jun 01 06:00:00 EDT 2007
+Friday
+Jyeshta ( 23:37 ) 
+Prathamai ( 22:10 ) 
+Krishna
+Siddha ( 10:36 ) 
+Balava ( 09:39 )  , Kaulava ( 22:10 ) 
+08:24 PM - 09:09 AM
+
+------------------------------------------------------
+Sat Jun 02 06:00:00 EDT 2007
+Saturday
+Moola ( 24:58 ) 
+Dvithiyai ( 22:52 ) 
+Krishna
+Sadhya ( 10:20 ) 
+Taitula ( 10:34 )  , Garija ( 22:52 ) 
+08:24 PM - 09:09 AM
+
+------------------------------------------------------
+Sun Jun 03 06:00:00 EDT 2007
+Sunday
+Purva Ashadha ( 25:56 ) 
+Thrithiyai ( 23:11 ) 
+Krishna
+Subha ( 09:46 ) 
+Vanija ( 11:04 )  , Visti ( 23:11 ) 
+08:24 PM - 09:09 AM
+
+------------------------------------------------------
+Mon Jun 04 06:00:00 EDT 2007
+Monday
+Uttra Ashadha  ( 26:31 ) 
+Chathruthi ( 23:07 ) 
+Krishna
+Sukla ( 08:53 ) 
+Bava ( 11:12 )  , Balava ( 23:07 ) 
+08:24 PM - 09:10 AM
+
+------------------------------------------------------
+Tue Jun 05 06:00:00 EDT 2007
+Tuesday
+Shravana ( 26:43 ) 
+Panchami ( 22:40 ) 
+Krishna
+Brahma ( 07:42 ) 
+Kaulava ( 10:56 )  , Taitula ( 22:40 ) 
+08:24 PM - 09:10 AM
+
+------------------------------------------------------
+Wed Jun 06 06:00:00 EDT 2007
+Wednesday
+Dhanishta ( 26:30 ) 
+Sashti ( 21:48 ) 
+Krishna
+Indra ( 06:12 ) 
+Garija ( 10:17 )  , Vanija ( 21:48 ) 
+08:24 PM - 09:10 AM
+
+------------------------------------------------------
+Thu Jun 07 06:00:00 EDT 2007
+Thursday
+Shatabhisha ( 25:53 ) 
+Sapthami ( 20:30 ) 
+Krishna
+Vishakambha ( 26:13 ) 
+Visti ( 09:12 )  , Bava ( 20:30 ) 
+08:24 PM - 09:10 AM
+
+------------------------------------------------------
+Fri Jun 08 06:00:00 EDT 2007
+Friday
+Purva Bhadrapada ( 24:50 ) 
+Ashtami ( 18:47 ) 
+Krishna
+Priti ( 23:42 ) 
+Balava ( 07:42 )  , Kaulava ( 18:47 ) 
+08:24 PM - 09:11 AM
+
+------------------------------------------------------
+Sat Jun 09 06:00:00 EDT 2007
+Saturday
+Uttra Bhadrapada ( 23:22 ) 
+Navami ( 16:39 ) 
+Krishna
+Ayushman ( 20:50 ) 
+Garija ( 16:39 )  , Vanija ( 27:26 ) 
+08:24 PM - 09:11 AM
+
+------------------------------------------------------
+Sun Jun 10 06:00:00 EDT 2007
+Sunday
+Revathi ( 21:32 ) 
+Dasami ( 14:08 ) 
+Krishna
+Saubhagya ( 17:40 ) 
+Visti ( 14:08 )  , Bava ( 24:45 ) 
+08:25 PM - 09:11 AM
+
+------------------------------------------------------
+Mon Jun 11 06:00:00 EDT 2007
+Monday
+Ashwini ( 19:25 ) 
+Ekaadasi ( 11:18 ) 
+Krishna
+Sobhana ( 14:16 ) 
+Balava ( 11:18 )  , Kaulava ( 21:48 ) 
+08:25 PM - 09:11 AM
+
+------------------------------------------------------
+Tue Jun 12 06:00:00 EDT 2007
+Tuesday
+Bharani ( 17:09 ) 
+Dvaadasi ( 08:16 ) 
+Krishna
+Atiganda ( 10:41 ) 
+Taitula ( 08:16 )  , Garija ( 18:42 ) 
+08:25 PM - 09:12 AM
+
+------------------------------------------------------
+Wed Jun 13 06:00:00 EDT 2007
+Wednesday
+Krithika ( 14:50 ) 
+Chathurdasi ( 26:04 ) 
+Krishna
+Sukarma ( 07:03 ) 
+Visti ( 15:35 )  , Sakuna ( 26:04 ) 
+08:25 PM - 09:12 AM
+
+------------------------------------------------------
+Thu Jun 14 06:00:00 EDT 2007
+Thursday
+Rohini ( 12:40 ) 
+Amavasya ( 23:13 ) 
+Krishna
+Sula ( 24:06 ) 
+Chatushpada ( 12:36 )  , Naga ( 23:13 ) 
+08:25 PM - 09:12 AM
+
+------------------------------------------------------
+Fri Jun 15 06:00:00 EDT 2007
+Friday
+Mrigasira ( 10:48 ) 
+Prathamai ( 20:44 ) 
+Shukla
+Ganda ( 21:02 ) 
+Kimstughna ( 09:55 )  , Bava ( 20:44 ) 
+08:25 PM - 09:13 AM
+
+------------------------------------------------------
+Sat Jun 16 06:00:00 EDT 2007
+Saturday
+Ardra ( 09:24 ) 
+Dvithiyai ( 18:48 ) 
+Shukla
+Vriddhi ( 18:25 ) 
+Balava ( 07:42 )  , Kaulava ( 18:48 ) 
+08:25 PM - 09:13 AM
+
+------------------------------------------------------
+Sun Jun 17 06:00:00 EDT 2007
+Sunday
+Punarvasu ( 08:37 ) 
+Thrithiyai ( 17:32 ) 
+Shukla
+Dhruva ( 16:21 ) 
+Taitula ( 06:05 )  , Garija ( 17:32 ) 
+08:26 PM - 09:13 AM
+
+------------------------------------------------------
+Mon Jun 18 06:00:00 EDT 2007
+Monday
+Pushyami ( 08:34 ) 
+Chathruthi ( 17:03 ) 
+Shukla
+Vyaghat ( 14:54 ) 
+Visti ( 17:03 )  , Bava ( 29:06 ) 
+08:26 PM - 09:13 AM
+
+------------------------------------------------------
+Tue Jun 19 06:00:00 EDT 2007
+Tuesday
+Ashlesha ( 09:18 ) 
+Panchami ( 17:21 ) 
+Shukla
+Harshana ( 14:06 ) 
+Balava ( 17:21 )  , Kaulava ( 29:49 ) 
+08:26 PM - 09:14 AM
+
+------------------------------------------------------
+Wed Jun 20 06:00:00 EDT 2007
+Wednesday
+Magha ( 10:48 ) 
+Sashti ( 18:27 ) 
+Shukla
+Vajra ( 13:54 ) 
+Taitula ( 18:27 )  , Garija ( 31:15 ) 
+08:26 PM - 09:14 AM
+
+------------------------------------------------------
+Thu Jun 21 06:00:00 EDT 2007
+Thursday
+Purva Phalguni ( 13:00 ) 
+Sapthami ( 20:11 ) 
+Shukla
+Siddhi ( 14:14 ) 
+Garija ( 07:15 )  , Vanija ( 20:11 ) 
+08:26 PM - 09:14 AM
+
+------------------------------------------------------
+Fri Jun 22 06:00:00 EDT 2007
+Friday
+Uttra Phalguni ( 15:42 ) 
+Ashtami ( 22:24 ) 
+Shukla
+Vyatipatha ( 14:58 ) 
+Visti ( 09:15 )  , Bava ( 22:24 ) 
+08:27 PM - 09:14 AM
+
+------------------------------------------------------
+Sat Jun 23 06:00:00 EDT 2007
+Saturday
+Hasta ( 18:41 ) 
+Navami ( 24:51 ) 
+Shukla
+Variyan ( 15:56 ) 
+Balava ( 11:36 )  , Kaulava ( 24:51 ) 
+08:27 PM - 09:14 AM
+
+------------------------------------------------------
+Sun Jun 24 06:00:00 EDT 2007
+Sunday
+Chitra ( 21:42 ) 
+Dasami ( 27:17 ) 
+Shukla
+Parigha ( 16:58 ) 
+Taitula ( 14:05 )  , Garija ( 27:17 ) 
+08:27 PM - 09:15 AM
+
+------------------------------------------------------
+Mon Jun 25 06:00:00 EDT 2007
+Monday
+Swathi ( 24:34 ) 
+Ekaadasi ( 29:29 ) 
+Shukla
+Siva ( 17:52 ) 
+Vanija ( 16:25 )  , Visti ( 29:29 ) 
+08:27 PM - 09:15 AM
+
+------------------------------------------------------
+Tue Jun 26 06:00:00 EDT 2007
+Tuesday
+Vishakha ( 27:04 ) 
+Dvaadasi ( 31:19 ) 
+Shukla
+Siddha ( 18:32 ) 
+Bava ( 18:27 )  , Balava ( 31:19 ) 
+08:28 PM - 09:15 AM
+
+------------------------------------------------------
+Wed Jun 27 06:00:00 EDT 2007
+Wednesday
+Anuradha ( 29:07 ) 
+Dvaadasi ( 07:19 ) 
+Shukla
+Sadhya ( 18:51 ) 
+Balava ( 07:19 )  , Kaulava ( 20:03 ) 
+08:28 PM - 09:15 AM
+
+------------------------------------------------------
+Thu Jun 28 06:00:00 EDT 2007
+Thursday
+Jyeshta ( 30:40 ) 
+Thrayodasi ( 08:39 ) 
+Shukla
+Subha ( 18:47 ) 
+Taitula ( 08:39 )  , Garija ( 21:08 ) 
+08:28 PM - 09:15 AM
+
+------------------------------------------------------
+Fri Jun 29 06:00:00 EDT 2007
+Friday
+Jyeshta ( 06:40 ) 
+Chathurdasi ( 09:29 ) 
+Shukla
+Sukla ( 18:19 ) 
+Vanija ( 09:29 )  , Visti ( 21:42 ) 
+08:28 PM - 09:15 AM
+
+------------------------------------------------------
+Sat Jun 30 06:00:00 EDT 2007
+Saturday
+Moola ( 07:44 ) 
+Pournami ( 09:48 ) 
+Shukla
+Brahma ( 17:28 ) 
+Bava ( 09:48 )  , Balava ( 21:48 ) 
+08:29 PM - 09:16 AM
+
+------------------------------------------------------
+Sun Jul 01 06:00:00 EDT 2007
+Sunday
+Purva Ashadha ( 08:20 ) 
+Prathamai ( 09:40 ) 
+Krishna
+Indra ( 16:16 ) 
+Kaulava ( 09:40 )  , Taitula ( 21:27 ) 
+08:29 PM - 09:16 AM
+
+------------------------------------------------------
+Mon Jul 02 06:00:00 EDT 2007
+Monday
+Uttra Ashadha  ( 08:33 ) 
+Dvithiyai ( 09:08 ) 
+Krishna
+Vaidhriti ( 42700:16 ) 
+Garija ( 09:08 )  , Vanija ( 20:44 ) 
+08:29 PM - 09:16 AM
+
+------------------------------------------------------
+Tue Jul 03 06:00:00 EDT 2007
+Tuesday
+Shravana ( 08:24 ) 
+Thrithiyai ( 08:15 ) 
+Krishna
+Vishakambha ( 12:58 ) 
+Visti ( 08:15 )  , Bava ( 19:42 ) 
+08:29 PM - 09:16 AM
+
+------------------------------------------------------
+Wed Jul 04 06:00:00 EDT 2007
+Wednesday
+Dhanishta ( 07:58 ) 
+Chathruthi ( 07:04 ) 
+Krishna
+Priti ( 10:56 ) 
+Balava ( 07:04 )  , Kaulava ( 18:22 ) 
+08:30 PM - 09:16 AM
+
+------------------------------------------------------
+Thu Jul 05 06:00:00 EDT 2007
+Thursday
+Shatabhisha ( 07:15 ) 
+Sashti ( 27:53 ) 
+Krishna
+Ayushman ( 08:42 ) 
+Garija ( 16:46 )  , Vanija ( 27:53 ) 
+08:30 PM - 09:16 AM
+
+------------------------------------------------------
+Fri Jul 06 06:00:00 EDT 2007
+Friday
+Purva Bhadrapada ( 06:18 ) 
+Sapthami ( 25:56 ) 
+Krishna
+Saubhagya ( 06:15 ) 
+Visti ( 14:56 )  , Bava ( 25:56 ) 
+08:30 PM - 09:16 AM
+
+------------------------------------------------------
+Sat Jul 07 06:00:00 EDT 2007
+Saturday
+Revathi ( 27:43 ) 
+Ashtami ( 23:47 ) 
+Krishna
+Atiganda ( 24:49 ) 
+Balava ( 12:53 )  , Kaulava ( 23:47 ) 
+08:30 PM - 09:16 AM
+
+------------------------------------------------------
+Sun Jul 08 06:00:00 EDT 2007
+Sunday
+Ashwini ( 26:09 ) 
+Navami ( 21:28 ) 
+Krishna
+Sukarma ( 21:52 ) 
+Taitula ( 10:38 )  , Garija ( 21:28 ) 
+08:31 PM - 09:16 AM
+
+------------------------------------------------------
+Mon Jul 09 06:00:00 EDT 2007
+Monday
+Bharani ( 24:29 ) 
+Dasami ( 19:01 ) 
+Krishna
+Dhriti ( 18:49 ) 
+Vanija ( 08:15 )  , Visti ( 19:01 ) 
+08:31 PM - 09:16 AM
+
+------------------------------------------------------
+Tue Jul 10 06:00:00 EDT 2007
+Tuesday
+Krithika ( 22:47 ) 
+Ekaadasi ( 16:30 ) 
+Krishna
+Sula ( 15:44 ) 
+Balava ( 16:30 )  , Kaulava ( 27:16 ) 
+08:31 PM - 09:16 AM
+
+------------------------------------------------------
+Wed Jul 11 06:00:00 EDT 2007
+Wednesday
+Rohini ( 21:10 ) 
+Dvaadasi ( 14:03 ) 
+Krishna
+Ganda ( 12:40 ) 
+Taitula ( 14:03 )  , Garija ( 24:52 ) 
+08:31 PM - 09:16 AM
+
+------------------------------------------------------
+Thu Jul 12 06:00:00 EDT 2007
+Thursday
+Mrigasira ( 19:43 ) 
+Thrayodasi ( 11:44 ) 
+Krishna
+Vriddhi ( 09:44 ) 
+Vanija ( 11:44 )  , Visti ( 22:40 ) 
+08:32 PM - 09:16 AM
+
+------------------------------------------------------
+Fri Jul 13 06:00:00 EDT 2007
+Friday
+Ardra ( 18:36 ) 
+Chathurdasi ( 09:42 ) 
+Krishna
+Dhruva ( 07:00 ) 
+Sakuna ( 09:42 )  , Chatushpada ( 20:49 ) 
+08:32 PM - 09:16 AM
+
+------------------------------------------------------
+Sat Jul 14 06:00:00 EDT 2007
+Saturday
+Punarvasu ( 17:55 ) 
+Amavasya ( 08:03 ) 
+Krishna
+Harshana ( 26:35 ) 
+Naga ( 08:03 )  , Kimstughna ( 19:25 ) 
+08:32 PM - 09:16 AM
+
+------------------------------------------------------
+Sun Jul 15 06:00:00 EDT 2007
+Sunday
+Pushyami ( 17:48 ) 
+Prathamai ( 06:56 ) 
+Shukla
+Vajra ( 25:03 ) 
+Bava ( 06:56 )  , Balava ( 18:35 ) 
+08:32 PM - 09:16 AM
+
+------------------------------------------------------
+Mon Jul 16 06:00:00 EDT 2007
+Monday
+Ashlesha ( 18:19 ) 
+Dvithiyai ( 06:25 ) 
+Shukla
+Siddhi ( 24:03 ) 
+Kaulava ( 06:25 )  , Taitula ( 18:25 ) 
+08:33 PM - 09:16 AM
+
+------------------------------------------------------
+Tue Jul 17 06:00:00 EDT 2007
+Tuesday
+Magha ( 19:31 ) 
+Thrithiyai ( 06:35 ) 
+Shukla
+Vyatipatha ( 23:36 ) 
+Garija ( 06:35 )  , Vanija ( 18:56 ) 
+08:33 PM - 09:16 AM
+
+------------------------------------------------------
+Wed Jul 18 06:00:00 EDT 2007
+Wednesday
+Purva Phalguni ( 21:22 ) 
+Chathruthi ( 07:26 ) 
+Shukla
+Variyan ( 23:40 ) 
+Visti ( 07:26 )  , Bava ( 20:07 ) 
+08:33 PM - 09:16 AM
+
+------------------------------------------------------
+Thu Jul 19 06:00:00 EDT 2007
+Thursday
+Uttra Phalguni ( 23:47 ) 
+Panchami ( 08:56 ) 
+Shukla
+Parigha ( 24:10 ) 
+Balava ( 08:56 )  , Kaulava ( 21:53 ) 
+08:33 PM - 09:16 AM
+
+------------------------------------------------------
+Fri Jul 20 06:00:00 EDT 2007
+Friday
+Hasta ( 26:35 ) 
+Sashti ( 10:56 ) 
+Shukla
+Siva ( 24:59 ) 
+Taitula ( 10:56 )  , Garija ( 24:05 ) 
+08:34 PM - 09:16 AM
+
+------------------------------------------------------
+Sat Jul 21 06:00:00 EDT 2007
+Saturday
+Chitra ( 29:34 ) 
+Sapthami ( 13:16 ) 
+Shukla
+Siddha ( 25:57 ) 
+Vanija ( 13:16 )  , Visti ( 26:29 ) 
+08:34 PM - 09:16 AM
+
+------------------------------------------------------
+Sun Jul 22 06:00:00 EDT 2007
+Sunday
+Swathi ( 32:29 ) 
+Ashtami ( 15:41 ) 
+Shukla
+Sadhya ( 26:54 ) 
+Bava ( 15:41 )  , Balava ( 28:51 ) 
+08:34 PM - 09:16 AM
+
+------------------------------------------------------
+Mon Jul 23 06:00:00 EDT 2007
+Monday
+Swathi ( 08:29 ) 
+Navami ( 17:57 ) 
+Shukla
+Subha ( 27:39 ) 
+Kaulava ( 17:57 )  , Taitula ( 30:57 ) 
+08:34 PM - 09:15 AM
+
+------------------------------------------------------
+Tue Jul 24 06:00:00 EDT 2007
+Tuesday
+Vishakha ( 11:08 ) 
+Dasami ( 19:51 ) 
+Shukla
+Sukla ( 28:05 ) 
+Taitula ( 06:57 )  , Garija ( 19:51 ) 
+08:35 PM - 09:15 AM
+
+------------------------------------------------------
+Wed Jul 25 06:00:00 EDT 2007
+Wednesday
+Anuradha ( 13:19 ) 
+Ekaadasi ( 21:14 ) 
+Shukla
+Brahma ( 28:05 ) 
+Vanija ( 08:37 )  , Visti ( 21:14 ) 
+08:35 PM - 09:15 AM
+
+------------------------------------------------------
+Thu Jul 26 06:00:00 EDT 2007
+Thursday
+Jyeshta ( 14:57 ) 
+Dvaadasi ( 22:01 ) 
+Shukla
+Indra ( 27:37 ) 
+Bava ( 09:42 )  , Balava ( 22:01 ) 
+08:35 PM - 09:15 AM
+
+------------------------------------------------------
+Fri Jul 27 06:00:00 EDT 2007
+Friday
+Moola ( 15:58 ) 
+Thrayodasi ( 22:11 ) 
+Shukla
+Vaidhriti ( 18312:38 ) 
+Kaulava ( 10:11 )  , Taitula ( 22:11 ) 
+08:35 PM - 09:15 AM
+
+------------------------------------------------------
+Sat Jul 28 06:00:00 EDT 2007
+Saturday
+Purva Ashadha ( 16:23 ) 
+Chathurdasi ( 21:45 ) 
+Shukla
+Vishakambha ( 25:13 ) 
+Garija ( 10:02 )  , Vanija ( 21:45 ) 
+08:35 PM - 09:14 AM
+
+------------------------------------------------------
+Sun Jul 29 06:00:00 EDT 2007
+Sunday
+Uttra Ashadha  ( 16:16 ) 
+Pournami ( 20:47 ) 
+Shukla
+Priti ( 23:22 ) 
+Visti ( 09:20 )  , Bava ( 20:47 ) 
+08:36 PM - 09:14 AM
+
+------------------------------------------------------
+Mon Jul 30 06:00:00 EDT 2007
+Monday
+Shravana ( 15:42 ) 
+Prathamai ( 19:23 ) 
+Krishna
+Ayushman ( 21:09 ) 
+Balava ( 08:08 )  , Kaulava ( 19:23 ) 
+08:36 PM - 09:14 AM
+
+------------------------------------------------------
+Tue Jul 31 06:00:00 EDT 2007
+Tuesday
+Dhanishta ( 14:45 ) 
+Dvithiyai ( 17:37 ) 
+Krishna
+Saubhagya ( 18:41 ) 
+Taitula ( 06:32 )  , Garija ( 17:37 ) 
+08:36 PM - 09:14 AM
+
+------------------------------------------------------
+Wed Aug 01 06:00:00 EDT 2007
+Wednesday
+Shatabhisha ( 13:32 ) 
+Thrithiyai ( 15:36 ) 
+Krishna
+Sobhana ( 15:59 ) 
+Visti ( 15:36 )  , Bava ( 26:31 ) 
+08:36 PM - 09:13 AM
+
+------------------------------------------------------
+Thu Aug 02 06:00:00 EDT 2007
+Thursday
+Purva Bhadrapada ( 12:08 ) 
+Chathruthi ( 13:25 ) 
+Krishna
+Atiganda ( 13:09 ) 
+Balava ( 13:25 )  , Kaulava ( 24:16 ) 
+08:36 PM - 09:13 AM
+
+------------------------------------------------------
+Fri Aug 03 06:00:00 EDT 2007
+Friday
+Uttra Bhadrapada ( 10:38 ) 
+Panchami ( 11:07 ) 
+Krishna
+Sukarma ( 10:13 ) 
+Taitula ( 11:07 )  , Garija ( 21:57 ) 
+08:37 PM - 09:13 AM
+
+------------------------------------------------------
+Sat Aug 04 06:00:00 EDT 2007
+Saturday
+Revathi ( 09:05 ) 
+Sashti ( 08:46 ) 
+Krishna
+Dhriti ( 07:16 ) 
+Vanija ( 08:46 )  , Visti ( 19:37 ) 
+08:37 PM - 09:13 AM
+
+------------------------------------------------------
+Sun Aug 05 06:00:00 EDT 2007
+Sunday
+Ashwini ( 07:34 ) 
+Sapthami ( 06:27 ) 
+Krishna
+Ganda ( 25:25 ) 
+Bava ( 06:27 )  , Balava ( 17:19 ) 
+08:37 PM - 09:12 AM
+
+------------------------------------------------------
+Mon Aug 06 06:00:00 EDT 2007
+Monday
+Bharani ( 06:06 ) 
+Navami ( 26:04 ) 
+Krishna
+Vriddhi ( 22:37 ) 
+Taitula ( 15:07 )  , Garija ( 26:04 ) 
+08:37 PM - 09:12 AM
+
+------------------------------------------------------
+Tue Aug 07 06:00:00 EDT 2007
+Tuesday
+Rohini ( 27:37 ) 
+Dasami ( 24:07 ) 
+Krishna
+Dhruva ( 19:56 ) 
+Vanija ( 13:04 )  , Visti ( 24:07 ) 
+08:37 PM - 09:11 AM
+
+------------------------------------------------------
+Wed Aug 08 06:00:00 EDT 2007
+Wednesday
+Mrigasira ( 26:42 ) 
+Ekaadasi ( 22:23 ) 
+Krishna
+Vyaghat ( 17:27 ) 
+Bava ( 11:13 )  , Balava ( 22:23 ) 
+08:37 PM - 09:11 AM
+
+------------------------------------------------------
+Thu Aug 09 06:00:00 EDT 2007
+Thursday
+Ardra ( 26:04 ) 
+Dvaadasi ( 20:56 ) 
+Krishna
+Harshana ( 15:10 ) 
+Kaulava ( 09:37 )  , Taitula ( 20:56 ) 
+08:37 PM - 09:11 AM
+
+------------------------------------------------------
+Fri Aug 10 06:00:00 EDT 2007
+Friday
+Punarvasu ( 25:49 ) 
+Thrayodasi ( 19:51 ) 
+Krishna
+Vajra ( 13:11 ) 
+Garija ( 08:21 )  , Vanija ( 19:51 ) 
+08:37 PM - 09:10 AM
+
+------------------------------------------------------
+Sat Aug 11 06:00:00 EDT 2007
+Saturday
+Pushyami ( 26:01 ) 
+Chathurdasi ( 19:12 ) 
+Krishna
+Siddhi ( 11:30 ) 
+Visti ( 07:28 )  , Sakuna ( 19:12 ) 
+08:38 PM - 09:10 AM
+
+------------------------------------------------------
+Sun Aug 12 06:00:00 EDT 2007
+Sunday
+Ashlesha ( 26:42 ) 
+Amavasya ( 19:02 ) 
+Krishna
+Vyatipatha ( 10:13 ) 
+Chatushpada ( 07:03 )  , Naga ( 19:02 ) 
+08:38 PM - 09:09 AM
+
+------------------------------------------------------
+Mon Aug 13 06:00:00 EDT 2007
+Monday
+Magha ( 27:54 ) 
+Prathamai ( 19:24 ) 
+Shukla
+Variyan ( 09:20 ) 
+Kimstughna ( 07:09 )  , Bava ( 19:24 ) 
+08:38 PM - 09:09 AM
+
+------------------------------------------------------
+Tue Aug 14 06:00:00 EDT 2007
+Tuesday
+Purva Phalguni ( 29:40 ) 
+Dvithiyai ( 20:19 ) 
+Shukla
+Parigha ( 08:53 ) 
+Balava ( 07:48 )  , Kaulava ( 20:19 ) 
+08:38 PM - 09:09 AM
+
+------------------------------------------------------
+Wed Aug 15 06:00:00 EDT 2007
+Wednesday
+Uttra Phalguni ( 31:55 ) 
+Thrithiyai ( 21:47 ) 
+Shukla
+Siva ( 08:51 ) 
+Taitula ( 08:59 )  , Garija ( 21:47 ) 
+08:38 PM - 09:08 AM
+
+------------------------------------------------------
+Thu Aug 16 06:00:00 EDT 2007
+Thursday
+Uttra Phalguni ( 07:55 ) 
+Chathruthi ( 23:43 ) 
+Shukla
+Siddha ( 09:13 ) 
+Vanija ( 10:42 )  , Visti ( 23:43 ) 
+08:38 PM - 09:08 AM
+
+------------------------------------------------------
+Fri Aug 17 06:00:00 EDT 2007
+Friday
+Hasta ( 10:34 ) 
+Panchami ( 25:59 ) 
+Shukla
+Sadhya ( 09:54 ) 
+Bava ( 12:49 )  , Balava ( 25:59 ) 
+08:38 PM - 09:07 AM
+
+------------------------------------------------------
+Sat Aug 18 06:00:00 EDT 2007
+Saturday
+Chitra ( 13:29 ) 
+Sashti ( 28:25 ) 
+Shukla
+Subha ( 10:48 ) 
+Kaulava ( 15:11 )  , Taitula ( 28:25 ) 
+08:38 PM - 09:07 AM
+
+------------------------------------------------------
+Sun Aug 19 06:00:00 EDT 2007
+Sunday
+Swathi ( 16:29 ) 
+Sapthami ( 30:48 ) 
+Shukla
+Sukla ( 11:46 ) 
+Garija ( 17:37 )  , Vanija ( 30:48 ) 
+08:38 PM - 09:06 AM
+
+------------------------------------------------------
+Mon Aug 20 06:00:00 EDT 2007
+Monday
+Vishakha ( 19:20 ) 
+Sapthami ( 06:48 ) 
+Shukla
+Brahma ( 12:39 ) 
+Vanija ( 06:48 )  , Visti ( 19:54 ) 
+08:38 PM - 09:06 AM
+
+------------------------------------------------------
+Tue Aug 21 06:00:00 EDT 2007
+Tuesday
+Anuradha ( 21:49 ) 
+Ashtami ( 08:54 ) 
+Shukla
+Indra ( 13:18 ) 
+Bava ( 08:54 )  , Balava ( 21:48 ) 
+08:38 PM - 09:05 AM
+
+------------------------------------------------------
+Wed Aug 22 06:00:00 EDT 2007
+Wednesday
+Jyeshta ( 23:47 ) 
+Navami ( 10:33 ) 
+Shukla
+Vaidhriti ( 56129:44 ) 
+Kaulava ( 10:33 )  , Taitula ( 23:09 ) 
+08:38 PM - 09:05 AM
+
+------------------------------------------------------
+Thu Aug 23 06:00:00 EDT 2007
+Thursday
+Moola ( 25:06 ) 
+Dasami ( 11:35 ) 
+Shukla
+Vishakambha ( 13:20 ) 
+Garija ( 11:35 )  , Vanija ( 23:50 ) 
+08:38 PM - 09:04 AM
+
+------------------------------------------------------
+Fri Aug 24 06:00:00 EDT 2007
+Friday
+Purva Ashadha ( 25:42 ) 
+Ekaadasi ( 11:55 ) 
+Shukla
+Priti ( 12:33 ) 
+Visti ( 11:55 )  , Bava ( 23:49 ) 
+08:38 PM - 09:03 AM
+
+------------------------------------------------------
+Sat Aug 25 06:00:00 EDT 2007
+Saturday
+Uttra Ashadha  ( 25:37 ) 
+Dvaadasi ( 11:32 ) 
+Shukla
+Ayushman ( 11:12 ) 
+Balava ( 11:32 )  , Kaulava ( 23:04 ) 
+08:38 PM - 09:03 AM
+
+------------------------------------------------------
+Sun Aug 26 06:00:00 EDT 2007
+Sunday
+Shravana ( 24:54 ) 
+Thrayodasi ( 10:27 ) 
+Shukla
+Saubhagya ( 09:18 ) 
+Taitula ( 10:27 )  , Garija ( 21:41 ) 
+08:38 PM - 09:02 AM
+
+------------------------------------------------------
+Mon Aug 27 06:00:00 EDT 2007
+Monday
+Dhanishta ( 23:38 ) 
+Chathurdasi ( 08:46 ) 
+Shukla
+Sobhana ( 06:54 ) 
+Vanija ( 08:46 )  , Visti ( 19:44 ) 
+08:38 PM - 09:02 AM
+
+------------------------------------------------------
+Tue Aug 28 06:00:00 EDT 2007
+Tuesday
+Shatabhisha ( 21:57 ) 
+Pournami ( 06:35 ) 
+Shukla
+Sukarma ( 24:56 ) 
+Bava ( 06:35 )  , Balava ( 17:20 ) 
+08:38 PM - 09:01 AM
+
+------------------------------------------------------
+Wed Aug 29 06:00:00 EDT 2007
+Wednesday
+Purva Bhadrapada ( 19:58 ) 
+Dvithiyai ( 25:11 ) 
+Krishna
+Dhriti ( 21:34 ) 
+Taitula ( 14:37 )  , Garija ( 25:11 ) 
+08:38 PM - 09:01 AM
+
+------------------------------------------------------
+Thu Aug 30 06:00:00 EDT 2007
+Thursday
+Uttra Bhadrapada ( 17:50 ) 
+Thrithiyai ( 22:14 ) 
+Krishna
+Sula ( 18:04 ) 
+Vanija ( 11:43 )  , Visti ( 22:14 ) 
+08:38 PM - 09:00 AM
+
+------------------------------------------------------
+Fri Aug 31 06:00:00 EDT 2007
+Friday
+Revathi ( 15:40 ) 
+Chathruthi ( 19:17 ) 
+Krishna
+Ganda ( 14:33 ) 
+Bava ( 08:45 )  , Balava ( 19:17 ) 
+08:38 PM - 08:59 AM
+
+------------------------------------------------------
+Sat Sep 01 06:00:00 EDT 2007
+Saturday
+Ashwini ( 13:37 ) 
+Panchami ( 16:28 ) 
+Krishna
+Vriddhi ( 11:07 ) 
+Taitula ( 16:28 )  , Garija ( 27:07 ) 
+08:38 PM - 08:59 AM
+
+------------------------------------------------------
+Sun Sep 02 06:00:00 EDT 2007
+Sunday
+Bharani ( 11:45 ) 
+Sashti ( 13:51 ) 
+Krishna
+Dhruva ( 07:51 ) 
+Vanija ( 13:51 )  , Visti ( 24:39 ) 
+08:38 PM - 08:58 AM
+
+------------------------------------------------------
+Mon Sep 03 06:00:00 EDT 2007
+Monday
+Krithika ( 10:12 ) 
+Sapthami ( 11:33 ) 
+Krishna
+Harshana ( 26:03 ) 
+Bava ( 11:33 )  , Balava ( 22:32 ) 
+08:38 PM - 08:58 AM
+
+------------------------------------------------------
+Tue Sep 04 06:00:00 EDT 2007
+Tuesday
+Rohini ( 09:01 ) 
+Ashtami ( 09:37 ) 
+Krishna
+Vajra ( 23:37 ) 
+Kaulava ( 09:37 )  , Taitula ( 20:48 ) 
+08:38 PM - 08:57 AM
+
+------------------------------------------------------
+Wed Sep 05 06:00:00 EDT 2007
+Wednesday
+Mrigasira ( 08:14 ) 
+Navami ( 08:06 ) 
+Krishna
+Siddhi ( 21:33 ) 
+Garija ( 08:06 )  , Vanija ( 19:31 ) 
+08:38 PM - 08:56 AM
+
+------------------------------------------------------
+Thu Sep 06 06:00:00 EDT 2007
+Thursday
+Ardra ( 07:54 ) 
+Dasami ( 07:03 ) 
+Krishna
+Vyatipatha ( 19:51 ) 
+Visti ( 07:03 )  , Bava ( 18:41 ) 
+08:38 PM - 08:56 AM
+
+------------------------------------------------------
+Fri Sep 07 06:00:00 EDT 2007
+Friday
+Punarvasu ( 08:02 ) 
+Ekaadasi ( 06:27 ) 
+Krishna
+Variyan ( 18:31 ) 
+Balava ( 06:27 )  , Kaulava ( 18:20 ) 
+08:38 PM - 08:55 AM
+
+------------------------------------------------------
+Sat Sep 08 06:00:00 EDT 2007
+Saturday
+Pushyami ( 08:38 ) 
+Dvaadasi ( 06:20 ) 
+Krishna
+Parigha ( 17:33 ) 
+Taitula ( 06:20 )  , Garija ( 18:27 ) 
+08:38 PM - 08:54 AM
+
+------------------------------------------------------
+Sun Sep 09 06:00:00 EDT 2007
+Sunday
+Ashlesha ( 09:41 ) 
+Thrayodasi ( 06:41 ) 
+Krishna
+Siva ( 16:58 ) 
+Vanija ( 06:41 )  , Visti ( 19:02 ) 
+08:38 PM - 08:54 AM
+
+------------------------------------------------------
+Mon Sep 10 06:00:00 EDT 2007
+Monday
+Magha ( 11:10 ) 
+Chathurdasi ( 07:29 ) 
+Krishna
+Siddha ( 16:43 ) 
+Sakuna ( 07:29 )  , Chatushpada ( 20:03 ) 
+08:38 PM - 08:53 AM
+
+------------------------------------------------------
+Tue Sep 11 06:00:00 EDT 2007
+Tuesday
+Purva Phalguni ( 13:05 ) 
+Amavasya ( 08:44 ) 
+Krishna
+Sadhya ( 16:47 ) 
+Naga ( 08:44 )  , Kimstughna ( 21:30 ) 
+08:38 PM - 08:52 AM
+
+------------------------------------------------------
+Wed Sep 12 06:00:00 EDT 2007
+Wednesday
+Uttra Phalguni ( 15:22 ) 
+Prathamai ( 10:23 ) 
+Shukla
+Subha ( 17:10 ) 
+Bava ( 10:23 )  , Balava ( 23:21 ) 
+08:38 PM - 08:52 AM
+
+------------------------------------------------------
+Thu Sep 13 06:00:00 EDT 2007
+Thursday
+Hasta ( 18:00 ) 
+Dvithiyai ( 12:24 ) 
+Shukla
+Sukla ( 17:49 ) 
+Kaulava ( 12:24 )  , Taitula ( 25:31 ) 
+08:38 PM - 08:51 AM
+
+------------------------------------------------------
+Fri Sep 14 06:00:00 EDT 2007
+Friday
+Chitra ( 20:53 ) 
+Thrithiyai ( 14:42 ) 
+Shukla
+Brahma ( 18:40 ) 
+Garija ( 14:42 )  , Vanija ( 27:55 ) 
+08:38 PM - 08:50 AM
+
+------------------------------------------------------
+Sat Sep 15 06:00:00 EDT 2007
+Saturday
+Swathi ( 23:54 ) 
+Chathruthi ( 17:10 ) 
+Shukla
+Indra ( 19:37 ) 
+Visti ( 17:10 )  , Bava ( 30:26 ) 
+08:38 PM - 08:50 AM
+
+------------------------------------------------------
+Sun Sep 16 06:00:00 EDT 2007
+Sunday
+Vishakha ( 26:53 ) 
+Panchami ( 19:40 ) 
+Shukla
+Vaidhriti ( 20:36 ) 
+Bava ( 06:26 )  , Balava ( 19:40 ) 
+08:38 PM - 08:49 AM
+
+------------------------------------------------------
+Mon Sep 17 06:00:00 EDT 2007
+Monday
+Anuradha ( 29:41 ) 
+Sashti ( 22:00 ) 
+Shukla
+Vishakambha ( 21:24 ) 
+Kaulava ( 08:52 )  , Taitula ( 22:00 ) 
+08:38 PM - 08:48 AM
+
+------------------------------------------------------
+Tue Sep 18 06:00:00 EDT 2007
+Tuesday
+Jyeshta ( 32:05 ) 
+Sapthami ( 23:59 ) 
+Shukla
+Priti ( 21:58 ) 
+Garija ( 11:03 )  , Vanija ( 23:59 ) 
+08:38 PM - 08:48 AM
+
+------------------------------------------------------
+Wed Sep 19 06:00:00 EDT 2007
+Wednesday
+Jyeshta ( 08:05 ) 
+Ashtami ( 25:27 ) 
+Shukla
+Ayushman ( 22:08 ) 
+Visti ( 12:47 )  , Bava ( 25:27 ) 
+08:38 PM - 08:47 AM
+
+------------------------------------------------------
+Thu Sep 20 06:00:00 EDT 2007
+Thursday
+Moola ( 09:55 ) 
+Navami ( 26:14 ) 
+Shukla
+Saubhagya ( 21:48 ) 
+Balava ( 13:56 )  , Kaulava ( 26:14 ) 
+08:38 PM - 08:46 AM
+
+------------------------------------------------------
+Fri Sep 21 06:00:00 EDT 2007
+Friday
+Purva Ashadha ( 11:05 ) 
+Dasami ( 26:15 ) 
+Shukla
+Sobhana ( 20:53 ) 
+Taitula ( 14:20 )  , Garija ( 26:15 ) 
+08:38 PM - 08:46 AM
+
+------------------------------------------------------
+Sat Sep 22 06:00:00 EDT 2007
+Saturday
+Uttra Ashadha  ( 11:28 ) 
+Ekaadasi ( 25:29 ) 
+Shukla
+Atiganda ( 19:20 ) 
+Vanija ( 13:58 )  , Visti ( 25:29 ) 
+08:38 PM - 08:45 AM
+
+------------------------------------------------------
+Sun Sep 23 06:00:00 EDT 2007
+Sunday
+Shravana ( 11:05 ) 
+Dvaadasi ( 23:57 ) 
+Shukla
+Sukarma ( 17:11 ) 
+Bava ( 12:48 )  , Balava ( 23:57 ) 
+08:38 PM - 08:44 AM
+
+------------------------------------------------------
+Mon Sep 24 06:00:00 EDT 2007
+Monday
+Dhanishta ( 09:59 ) 
+Thrayodasi ( 21:44 ) 
+Shukla
+Dhriti ( 14:26 ) 
+Kaulava ( 10:55 )  , Taitula ( 21:44 ) 
+08:38 PM - 08:44 AM
+
+------------------------------------------------------
+Tue Sep 25 06:00:00 EDT 2007
+Tuesday
+Shatabhisha ( 08:15 ) 
+Chathurdasi ( 18:57 ) 
+Shukla
+Sula ( 11:12 ) 
+Garija ( 08:24 )  , Vanija ( 18:57 ) 
+08:38 PM - 08:43 AM
+
+------------------------------------------------------
+Wed Sep 26 06:00:00 EDT 2007
+Wednesday
+Purva Bhadrapada ( 06:00 ) 
+Pournami ( 15:45 ) 
+Shukla
+Ganda ( 07:34 ) 
+Bava ( 15:45 )  , Balava ( 26:02 ) 
+08:38 PM - 08:42 AM
+
+------------------------------------------------------
+Thu Sep 27 06:00:00 EDT 2007
+Thursday
+Revathi ( 24:40 ) 
+Prathamai ( 12:16 ) 
+Krishna
+Dhruva ( 23:36 ) 
+Kaulava ( 12:16 )  , Taitula ( 22:29 ) 
+08:38 PM - 08:42 AM
+
+------------------------------------------------------
+Fri Sep 28 06:00:00 EDT 2007
+Friday
+Ashwini ( 21:55 ) 
+Dvithiyai ( 08:42 ) 
+Krishna
+Vyaghat ( 19:32 ) 
+Garija ( 08:42 )  , Vanija ( 18:56 ) 
+08:38 PM - 08:41 AM
+
+------------------------------------------------------
+Sat Sep 29 06:00:00 EDT 2007
+Saturday
+Bharani ( 19:20 ) 
+Chathruthi ( 25:55 ) 
+Krishna
+Harshana ( 15:36 ) 
+Bava ( 15:31 )  , Balava ( 25:55 ) 
+08:37 PM - 08:40 AM
+
+------------------------------------------------------
+Sun Sep 30 06:00:00 EDT 2007
+Sunday
+Krithika ( 17:04 ) 
+Panchami ( 23:00 ) 
+Krishna
+Vajra ( 11:54 ) 
+Kaulava ( 12:24 )  , Taitula ( 23:00 ) 
+08:37 PM - 08:40 AM
+
+------------------------------------------------------
+Mon Oct 01 06:00:00 EDT 2007
+Monday
+Rohini ( 15:16 ) 
+Sashti ( 20:35 ) 
+Krishna
+Siddhi ( 08:34 ) 
+Garija ( 09:44 )  , Vanija ( 20:35 ) 
+08:37 PM - 08:39 AM
+
+------------------------------------------------------
+Tue Oct 02 06:00:00 EDT 2007
+Tuesday
+Mrigasira ( 14:02 ) 
+Sapthami ( 18:46 ) 
+Krishna
+Variyan ( 27:17 ) 
+Visti ( 07:36 )  , Bava ( 18:46 ) 
+08:37 PM - 08:39 AM
+
+------------------------------------------------------
+Wed Oct 03 06:00:00 EDT 2007
+Wednesday
+Ardra ( 13:26 ) 
+Ashtami ( 17:35 ) 
+Krishna
+Parigha ( 25:25 ) 
+Balava ( 06:05 )  , Kaulava ( 17:35 ) 
+08:37 PM - 08:38 AM
+
+------------------------------------------------------
+Thu Oct 04 06:00:00 EDT 2007
+Thursday
+Punarvasu ( 13:30 ) 
+Navami ( 17:04 ) 
+Krishna
+Siva ( 24:05 ) 
+Garija ( 17:04 )  , Vanija ( 29:04 ) 
+08:37 PM - 08:37 AM
+
+------------------------------------------------------
+Fri Oct 05 06:00:00 EDT 2007
+Friday
+Pushyami ( 14:11 ) 
+Dasami ( 17:12 ) 
+Krishna
+Siddha ( 23:14 ) 
+Visti ( 17:12 )  , Bava ( 29:30 ) 
+08:37 PM - 08:37 AM
+
+------------------------------------------------------
+Sat Oct 06 06:00:00 EDT 2007
+Saturday
+Ashlesha ( 15:27 ) 
+Ekaadasi ( 17:56 ) 
+Krishna
+Sadhya ( 22:49 ) 
+Balava ( 17:56 )  , Kaulava ( 30:29 ) 
+08:37 PM - 08:36 AM
+
+------------------------------------------------------
+Sun Oct 07 06:00:00 EDT 2007
+Sunday
+Magha ( 17:12 ) 
+Dvaadasi ( 19:09 ) 
+Krishna
+Subha ( 22:46 ) 
+Kaulava ( 06:29 )  , Taitula ( 19:09 ) 
+08:37 PM - 08:35 AM
+
+------------------------------------------------------
+Mon Oct 08 06:00:00 EDT 2007
+Monday
+Purva Phalguni ( 19:22 ) 
+Thrayodasi ( 20:48 ) 
+Krishna
+Sukla ( 23:02 ) 
+Garija ( 07:56 )  , Vanija ( 20:48 ) 
+08:37 PM - 08:35 AM
+
+------------------------------------------------------
+Tue Oct 09 06:00:00 EDT 2007
+Tuesday
+Uttra Phalguni ( 21:52 ) 
+Chathurdasi ( 22:46 ) 
+Krishna
+Brahma ( 23:33 ) 
+Visti ( 09:45 )  , Sakuna ( 22:46 ) 
+08:38 PM - 08:34 AM
+
+------------------------------------------------------
+Wed Oct 10 06:00:00 EDT 2007
+Wednesday
+Hasta ( 24:36 ) 
+Amavasya ( 25:00 ) 
+Krishna
+Indra ( 24:15 ) 
+Chatushpada ( 11:52 )  , Naga ( 25:00 ) 
+08:38 PM - 08:34 AM
+
+------------------------------------------------------
+Thu Oct 11 06:00:00 EDT 2007
+Thursday
+Chitra ( 27:30 ) 
+Prathamai ( 27:25 ) 
+Shukla
+Vaidhriti ( 25:05 ) 
+Kimstughna ( 14:11 )  , Bava ( 27:25 ) 
+08:38 PM - 08:33 AM
+
+------------------------------------------------------
+Fri Oct 12 06:00:00 EDT 2007
+Friday
+Swathi ( 30:30 ) 
+Dvithiyai ( 29:56 ) 
+Shukla
+Vishakambha ( 25:59 ) 
+Balava ( 16:40 )  , Kaulava ( 29:56 ) 
+08:38 PM - 08:33 AM
+
+------------------------------------------------------
+Sat Oct 13 06:00:00 EDT 2007
+Saturday
+Swathi ( 06:30 ) 
+Thrithiyai ( 32:27 ) 
+Shukla
+Priti ( 26:55 ) 
+Taitula ( 19:12 )  , Garija ( 32:27 ) 
+08:38 PM - 08:32 AM
+
+------------------------------------------------------
+Sun Oct 14 06:00:00 EDT 2007
+Sunday
+Vishakha ( 09:30 ) 
+Thrithiyai ( 08:27 ) 
+Shukla
+Ayushman ( 27:48 ) 
+Garija ( 08:27 )  , Vanija ( 21:41 ) 
+08:38 PM - 08:31 AM
+
+------------------------------------------------------
+Mon Oct 15 06:00:00 EDT 2007
+Monday
+Anuradha ( 12:25 ) 
+Chathruthi ( 10:53 ) 
+Shukla
+Saubhagya ( 28:31 ) 
+Visti ( 10:53 )  , Bava ( 24:01 ) 
+08:38 PM - 08:31 AM
+
+------------------------------------------------------
+Tue Oct 16 06:00:00 EDT 2007
+Tuesday
+Jyeshta ( 15:05 ) 
+Panchami ( 13:04 ) 
+Shukla
+Sobhana ( 29:00 ) 
+Balava ( 13:04 )  , Kaulava ( 26:02 ) 
+08:38 PM - 08:30 AM
+
+------------------------------------------------------
+Wed Oct 17 06:00:00 EDT 2007
+Wednesday
+Moola ( 17:23 ) 
+Sashti ( 14:53 ) 
+Shukla
+Atiganda ( 29:06 ) 
+Taitula ( 14:53 )  , Garija ( 27:36 ) 
+08:38 PM - 08:30 AM
+
+------------------------------------------------------
+Thu Oct 18 06:00:00 EDT 2007
+Thursday
+Purva Ashadha ( 19:09 ) 
+Sapthami ( 16:09 ) 
+Shukla
+Sukarma ( 28:44 ) 
+Vanija ( 16:09 )  , Visti ( 28:32 ) 
+08:38 PM - 08:29 AM
+
+------------------------------------------------------
+Fri Oct 19 06:00:00 EDT 2007
+Friday
+Uttra Ashadha  ( 20:15 ) 
+Ashtami ( 16:45 ) 
+Shukla
+Dhriti ( 27:48 ) 
+Bava ( 16:45 )  , Balava ( 28:46 ) 
+08:38 PM - 08:29 AM
+
+------------------------------------------------------
+Sat Oct 20 06:00:00 EDT 2007
+Saturday
+Shravana ( 20:35 ) 
+Navami ( 16:34 ) 
+Shukla
+Sula ( 26:15 ) 
+Kaulava ( 16:34 )  , Taitula ( 28:11 ) 
+08:38 PM - 08:28 AM
+
+------------------------------------------------------
+Sun Oct 21 06:00:00 EDT 2007
+Sunday
+Dhanishta ( 20:08 ) 
+Dasami ( 15:35 ) 
+Shukla
+Ganda ( 24:03 ) 
+Garija ( 15:35 )  , Vanija ( 26:48 ) 
+08:38 PM - 08:28 AM
+
+------------------------------------------------------
+Mon Oct 22 06:00:00 EDT 2007
+Monday
+Shatabhisha ( 18:55 ) 
+Ekaadasi ( 13:49 ) 
+Shukla
+Vriddhi ( 21:14 ) 
+Visti ( 13:49 )  , Bava ( 24:39 ) 
+08:39 PM - 08:28 AM
+
+------------------------------------------------------
+Tue Oct 23 06:00:00 EDT 2007
+Tuesday
+Purva Bhadrapada ( 17:00 ) 
+Dvaadasi ( 11:19 ) 
+Shukla
+Dhruva ( 17:51 ) 
+Balava ( 11:19 )  , Kaulava ( 21:50 ) 
+08:39 PM - 08:27 AM
+
+------------------------------------------------------
+Wed Oct 24 06:00:00 EDT 2007
+Wednesday
+Uttra Bhadrapada ( 14:31 ) 
+Thrayodasi ( 08:13 ) 
+Shukla
+Vyaghat ( 14:01 ) 
+Taitula ( 08:13 )  , Garija ( 18:30 ) 
+08:39 PM - 08:27 AM
+
+------------------------------------------------------
+Thu Oct 25 06:00:00 EDT 2007
+Thursday
+Revathi ( 11:38 ) 
+Pournami ( 24:51 ) 
+Shukla
+Harshana ( 09:51 ) 
+Visti ( 14:47 )  , Bava ( 24:51 ) 
+08:39 PM - 08:26 AM
+
+------------------------------------------------------
+Fri Oct 26 06:00:00 EDT 2007
+Friday
+Ashwini ( 08:32 ) 
+Prathamai ( 20:56 ) 
+Krishna
+Siddhi ( 25:05 ) 
+Balava ( 10:54 )  , Kaulava ( 20:56 ) 
+08:39 PM - 08:26 AM
+
+------------------------------------------------------
+Sat Oct 27 06:00:00 EDT 2007
+Saturday
+Krithika ( 26:29 ) 
+Dvithiyai ( 17:07 ) 
+Krishna
+Vyatipatha ( 20:47 ) 
+Taitula ( 07:00 )  , Garija ( 17:07 ) 
+08:39 PM - 08:26 AM
+
+------------------------------------------------------
+Sun Oct 28 06:00:00 EDT 2007
+Sunday
+Rohini ( 23:54 ) 
+Thrithiyai ( 13:35 ) 
+Krishna
+Variyan ( 16:46 ) 
+Visti ( 13:35 )  , Bava ( 23:59 ) 
+08:40 PM - 08:25 AM
+
+------------------------------------------------------
+Mon Oct 29 06:00:00 EDT 2007
+Monday
+Mrigasira ( 21:53 ) 
+Chathruthi ( 10:31 ) 
+Krishna
+Parigha ( 13:08 ) 
+Balava ( 10:31 )  , Kaulava ( 21:12 ) 
+08:40 PM - 08:25 AM
+
+------------------------------------------------------
+Tue Oct 30 06:00:00 EDT 2007
+Tuesday
+Ardra ( 20:32 ) 
+Panchami ( 08:03 ) 
+Krishna
+Siva ( 10:02 ) 
+Taitula ( 08:03 )  , Garija ( 19:06 ) 
+08:40 PM - 08:24 AM
+
+------------------------------------------------------
+Wed Oct 31 06:00:00 EDT 2007
+Wednesday
+Punarvasu ( 19:57 ) 
+Sashti ( 06:21 ) 
+Krishna
+Siddha ( 07:31 ) 
+Vanija ( 06:21 )  , Visti ( 17:47 ) 
+08:40 PM - 08:24 AM
+
+------------------------------------------------------
+Thu Nov 01 06:00:00 EDT 2007
+Thursday
+Pushyami ( 20:11 ) 
+Ashtami ( 29:21 ) 
+Krishna
+Subha ( 28:26 ) 
+Balava ( 17:18 )  , Kaulava ( 29:21 ) 
+08:40 PM - 08:24 AM
+
+------------------------------------------------------
+Fri Nov 02 06:00:00 EDT 2007
+Friday
+Ashlesha ( 21:12 ) 
+Navami ( 30:02 ) 
+Krishna
+Sukla ( 27:48 ) 
+Taitula ( 17:36 )  , Garija ( 30:02 ) 
+08:41 PM - 08:24 AM
+
+------------------------------------------------------
+Sat Nov 03 06:00:00 EDT 2007
+Saturday
+Magha ( 22:53 ) 
+Navami ( 06:02 ) 
+Krishna
+Brahma ( 27:42 ) 
+Garija ( 06:02 )  , Vanija ( 18:39 ) 
+08:41 PM - 08:23 AM
+
+------------------------------------------------------
+Sun Nov 04 06:00:00 EST 2007
+Sunday
+Purva Phalguni ( 24:07 ) 
+Dasami ( 07:24 ) 
+Krishna
+Indra ( 27:59 ) 
+Visti ( 07:24 )  , Bava ( 20:16 ) 
+08:41 PM - 08:23 AM
+
+------------------------------------------------------
+Mon Nov 05 06:00:00 EST 2007
+Monday
+Uttra Phalguni ( 26:44 ) 
+Ekaadasi ( 08:16 ) 
+Krishna
+Vaidhriti ( 27:35 ) 
+Balava ( 08:16 )  , Kaulava ( 21:21 ) 
+07:41 PM - 07:23 AM
+
+------------------------------------------------------
+Tue Nov 06 06:00:00 EST 2007
+Tuesday
+Hasta ( 29:36 ) 
+Dvaadasi ( 10:30 ) 
+Krishna
+Vishakambha ( 28:22 ) 
+Taitula ( 10:30 )  , Garija ( 23:43 ) 
+07:42 PM - 07:23 AM
+
+------------------------------------------------------
+Wed Nov 07 06:00:00 EST 2007
+Wednesday
+Chitra ( 32:35 ) 
+Thrayodasi ( 12:57 ) 
+Krishna
+Priti ( 29:14 ) 
+Vanija ( 12:57 )  , Visti ( 26:13 ) 
+07:42 PM - 07:22 AM
+
+------------------------------------------------------
+Thu Nov 08 06:00:00 EST 2007
+Thursday
+Chitra ( 08:35 ) 
+Chathurdasi ( 15:30 ) 
+Krishna
+Ayushman ( 30:08 ) 
+Sakuna ( 15:30 )  , Chatushpada ( 28:47 ) 
+07:42 PM - 07:22 AM
+
+------------------------------------------------------
+Fri Nov 09 06:00:00 EST 2007
+Friday
+Swathi ( 11:35 ) 
+Amavasya ( 18:03 ) 
+Krishna
+Ayushman ( 06:08 ) 
+Naga ( 18:03 )  , Kimstughna ( 31:18 ) 
+07:43 PM - 07:22 AM
+
+------------------------------------------------------
+Sat Nov 10 06:00:00 EST 2007
+Saturday
+Vishakha ( 14:32 ) 
+Prathamai ( 20:31 ) 
+Shukla
+Saubhagya ( 06:59 ) 
+Kimstughna ( 07:18 )  , Bava ( 20:31 ) 
+07:43 PM - 07:22 AM
+
+------------------------------------------------------
+Sun Nov 11 06:00:00 EST 2007
+Sunday
+Anuradha ( 17:22 ) 
+Dvithiyai ( 22:51 ) 
+Shukla
+Sobhana ( 07:46 ) 
+Balava ( 09:42 )  , Kaulava ( 22:51 ) 
+07:43 PM - 07:22 AM
+
+------------------------------------------------------
+Mon Nov 12 06:00:00 EST 2007
+Monday
+Jyeshta ( 20:01 ) 
+Thrithiyai ( 25:00 ) 
+Shukla
+Atiganda ( 08:26 ) 
+Taitula ( 11:57 )  , Garija ( 25:00 ) 
+07:44 PM - 07:22 AM
+
+------------------------------------------------------
+Tue Nov 13 06:00:00 EST 2007
+Tuesday
+Moola ( 22:25 ) 
+Chathruthi ( 26:51 ) 
+Shukla
+Sukarma ( 08:56 ) 
+Vanija ( 13:58 )  , Visti ( 26:51 ) 
+07:44 PM - 07:22 AM
+
+------------------------------------------------------
+Wed Nov 14 06:00:00 EST 2007
+Wednesday
+Purva Ashadha ( 24:28 ) 
+Panchami ( 28:19 ) 
+Shukla
+Dhriti ( 09:11 ) 
+Bava ( 15:38 )  , Balava ( 28:19 ) 
+07:44 PM - 07:21 AM
+
+------------------------------------------------------
+Thu Nov 15 06:00:00 EST 2007
+Thursday
+Uttra Ashadha  ( 26:03 ) 
+Sashti ( 29:16 ) 
+Shukla
+Sula ( 09:07 ) 
+Kaulava ( 16:52 )  , Taitula ( 29:16 ) 
+07:45 PM - 07:21 AM
+
+------------------------------------------------------
+Fri Nov 16 06:00:00 EST 2007
+Friday
+Shravana ( 27:03 ) 
+Sapthami ( 29:37 ) 
+Shukla
+Ganda ( 08:39 ) 
+Garija ( 17:32 )  , Vanija ( 29:37 ) 
+07:45 PM - 07:21 AM
+
+------------------------------------------------------
+Sat Nov 17 06:00:00 EST 2007
+Saturday
+Dhanishta ( 27:23 ) 
+Ashtami ( 29:16 ) 
+Shukla
+Vriddhi ( 07:42 ) 
+Visti ( 17:32 )  , Bava ( 29:16 ) 
+07:46 PM - 07:21 AM
+
+------------------------------------------------------
+Sun Nov 18 06:00:00 EST 2007
+Sunday
+Shatabhisha ( 26:59 ) 
+Navami ( 28:10 ) 
+Shukla
+Dhruva ( 06:12 ) 
+Balava ( 16:49 )  , Kaulava ( 28:10 ) 
+07:46 PM - 07:21 AM
+
+------------------------------------------------------
+Mon Nov 19 06:00:00 EST 2007
+Monday
+Purva Bhadrapada ( 25:51 ) 
+Dasami ( 26:19 ) 
+Shukla
+Harshana ( 25:27 ) 
+Taitula ( 15:20 )  , Garija ( 26:19 ) 
+07:46 PM - 07:21 AM
+
+------------------------------------------------------
+Tue Nov 20 06:00:00 EST 2007
+Tuesday
+Uttra Bhadrapada ( 24:03 ) 
+Ekaadasi ( 23:48 ) 
+Shukla
+Vajra ( 22:13 ) 
+Vanija ( 13:08 )  , Visti ( 23:48 ) 
+07:47 PM - 07:21 AM
+
+------------------------------------------------------
+Wed Nov 21 06:00:00 EST 2007
+Wednesday
+Revathi ( 21:40 ) 
+Dvaadasi ( 20:42 ) 
+Shukla
+Siddhi ( 18:30 ) 
+Bava ( 10:19 )  , Balava ( 20:42 ) 
+07:47 PM - 07:21 AM
+
+------------------------------------------------------
+Thu Nov 22 06:00:00 EST 2007
+Thursday
+Ashwini ( 18:52 ) 
+Thrayodasi ( 17:10 ) 
+Shukla
+Vyatipatha ( 14:26 ) 
+Kaulava ( 06:59 )  , Taitula ( 17:10 ) 
+07:48 PM - 07:21 AM
+
+------------------------------------------------------
+Fri Nov 23 06:00:00 EST 2007
+Friday
+Bharani ( 15:49 ) 
+Chathurdasi ( 13:22 ) 
+Shukla
+Variyan ( 10:07 ) 
+Vanija ( 13:22 )  , Visti ( 23:25 ) 
+07:48 PM - 07:21 AM
+
+------------------------------------------------------
+Sat Nov 24 06:00:00 EST 2007
+Saturday
+Krithika ( 12:42 ) 
+Pournami ( 09:29 ) 
+Shukla
+Siva ( 25:22 ) 
+Bava ( 09:29 )  , Balava ( -0-328:0-41 ) 
+07:49 PM - 07:22 AM
+
+------------------------------------------------------
+Sun Nov 25 06:00:00 EST 2007
+Sunday
+Rohini ( 09:45 ) 
+Dvithiyai ( 26:17 ) 
+Krishna
+Siddha ( 21:15 ) 
+Taitula ( 15:58 )  , Garija ( 26:17 ) 
+07:49 PM - 07:22 AM
+
+------------------------------------------------------
+Mon Nov 26 06:00:00 EST 2007
+Monday
+Mrigasira ( 07:08 ) 
+Thrithiyai ( 23:21 ) 
+Krishna
+Sadhya ( 17:31 ) 
+Vanija ( 12:45 )  , Visti ( 23:21 ) 
+07:50 PM - 07:22 AM
+
+------------------------------------------------------
+Tue Nov 27 06:00:00 EST 2007
+Tuesday
+Punarvasu ( 27:42 ) 
+Chathruthi ( 21:05 ) 
+Krishna
+Subha ( 14:17 ) 
+Bava ( 10:07 )  , Balava ( 21:05 ) 
+07:50 PM - 07:22 AM
+
+------------------------------------------------------
+Wed Nov 28 06:00:00 EST 2007
+Wednesday
+Pushyami ( 27:09 ) 
+Panchami ( 19:36 ) 
+Krishna
+Sukla ( 11:39 ) 
+Kaulava ( 08:14 )  , Taitula ( 19:36 ) 
+07:51 PM - 07:22 AM
+
+------------------------------------------------------
+Thu Nov 29 06:00:00 EST 2007
+Thursday
+Ashlesha ( 27:27 ) 
+Sashti ( 19:00 ) 
+Krishna
+Brahma ( 09:43 ) 
+Garija ( 07:11 )  , Vanija ( 19:00 ) 
+07:51 PM - 07:22 AM
+
+------------------------------------------------------
+Fri Nov 30 06:00:00 EST 2007
+Friday
+Magha ( 28:36 ) 
+Sapthami ( 19:16 ) 
+Krishna
+Indra ( 08:27 ) 
+Visti ( 07:02 )  , Bava ( 19:16 ) 
+07:52 PM - 07:23 AM
+
+------------------------------------------------------
+Sat Dec 01 06:00:00 EST 2007
+Saturday
+Purva Phalguni ( 30:29 ) 
+Ashtami ( 20:22 ) 
+Krishna
+Vaidhriti ( 7336:36 ) 
+Balava ( 07:44 )  , Kaulava ( 20:22 ) 
+07:52 PM - 07:23 AM
+
+------------------------------------------------------
+Sun Dec 02 06:00:00 EST 2007
+Sunday
+Purva Phalguni ( 06:29 ) 
+Navami ( 22:08 ) 
+Krishna
+Vishakambha ( 07:50 ) 
+Taitula ( 09:11 )  , Garija ( 22:08 ) 
+07:53 PM - 07:23 AM
+
+------------------------------------------------------
+Mon Dec 03 06:00:00 EST 2007
+Monday
+Uttra Phalguni ( 08:56 ) 
+Dasami ( 24:23 ) 
+Krishna
+Priti ( 08:14 ) 
+Vanija ( 11:13 )  , Visti ( 24:23 ) 
+07:53 PM - 07:23 AM
+
+------------------------------------------------------
+Tue Dec 04 06:00:00 EST 2007
+Tuesday
+Hasta ( 11:46 ) 
+Ekaadasi ( 26:56 ) 
+Krishna
+Ayushman ( 08:58 ) 
+Bava ( 13:38 )  , Balava ( 26:56 ) 
+07:54 PM - 07:24 AM
+
+------------------------------------------------------
+Wed Dec 05 06:00:00 EST 2007
+Wednesday
+Chitra ( 14:48 ) 
+Dvaadasi ( 29:34 ) 
+Krishna
+Saubhagya ( 09:50 ) 
+Kaulava ( 16:15 )  , Taitula ( 29:34 ) 
+07:54 PM - 07:24 AM
+
+------------------------------------------------------
+Thu Dec 06 06:00:00 EST 2007
+Thursday
+Swathi ( 17:50 ) 
+Thrayodasi ( 32:07 ) 
+Krishna
+Sobhana ( 10:45 ) 
+Garija ( 18:51 )  , Vanija ( 32:07 ) 
+07:55 PM - 07:24 AM
+
+------------------------------------------------------
+Fri Dec 07 06:00:00 EST 2007
+Friday
+Vishakha ( 20:45 ) 
+Thrayodasi ( 08:07 ) 
+Krishna
+Atiganda ( 11:35 ) 
+Vanija ( 08:07 )  , Visti ( 21:21 ) 
+07:55 PM - 07:24 AM
+
+------------------------------------------------------
+Sat Dec 08 06:00:00 EST 2007
+Saturday
+Anuradha ( 23:29 ) 
+Chathurdasi ( 10:31 ) 
+Krishna
+Sukarma ( 12:18 ) 
+Sakuna ( 10:31 )  , Chatushpada ( 23:37 ) 
+07:56 PM - 07:25 AM
+
+------------------------------------------------------
+Sun Dec 09 06:00:00 EST 2007
+Sunday
+Jyeshta ( 25:57 ) 
+Amavasya ( 12:40 ) 
+Krishna
+Dhriti ( 12:49 ) 
+Naga ( 12:40 )  , Kimstughna ( 25:38 ) 
+07:56 PM - 07:25 AM
+
+------------------------------------------------------
+Mon Dec 10 06:00:00 EST 2007
+Monday
+Moola ( 28:09 ) 
+Prathamai ( 14:32 ) 
+Shukla
+Sula ( 13:08 ) 
+Bava ( 14:32 )  , Balava ( 27:22 ) 
+07:57 PM - 07:25 AM
+
+------------------------------------------------------
+Tue Dec 11 06:00:00 EST 2007
+Tuesday
+Purva Ashadha ( 30:02 ) 
+Dvithiyai ( 16:06 ) 
+Shukla
+Ganda ( 13:13 ) 
+Kaulava ( 16:06 )  , Taitula ( 28:46 ) 
+07:57 PM - 07:26 AM
+
+------------------------------------------------------
+Wed Dec 12 06:00:00 EST 2007
+Wednesday
+Purva Ashadha ( 06:02 ) 
+Thrithiyai ( 17:20 ) 
+Shukla
+Vriddhi ( 13:03 ) 
+Garija ( 17:20 )  , Vanija ( 29:48 ) 
+07:58 PM - 07:26 AM
+
+------------------------------------------------------
+Thu Dec 13 06:00:00 EST 2007
+Thursday
+Uttra Ashadha  ( 07:35 ) 
+Chathruthi ( 18:11 ) 
+Shukla
+Dhruva ( 12:36 ) 
+Visti ( 18:11 )  , Bava ( 30:26 ) 
+07:58 PM - 07:27 AM
+
+------------------------------------------------------
+Fri Dec 14 06:00:00 EST 2007
+Friday
+Shravana ( 08:43 ) 
+Panchami ( 18:35 ) 
+Shukla
+Vyaghat ( 11:49 ) 
+Bava ( 06:26 )  , Balava ( 18:35 ) 
+07:59 PM - 07:27 AM
+
+------------------------------------------------------
+Sat Dec 15 06:00:00 EST 2007
+Saturday
+Dhanishta ( 09:25 ) 
+Sashti ( 18:29 ) 
+Shukla
+Harshana ( 10:40 ) 
+Kaulava ( 06:36 )  , Taitula ( 18:29 ) 
+07:59 PM - 07:28 AM
+
+------------------------------------------------------
+Sun Dec 16 06:00:00 EST 2007
+Sunday
+Shatabhisha ( 09:34 ) 
+Sapthami ( 17:50 ) 
+Shukla
+Vajra ( 09:06 ) 
+Garija ( 06:14 )  , Vanija ( 17:50 ) 
+08:00 PM - 07:28 AM
+
+------------------------------------------------------
+Mon Dec 17 06:00:00 EST 2007
+Monday
+Purva Bhadrapada ( 09:10 ) 
+Ashtami ( 16:35 ) 
+Shukla
+Siddhi ( 07:05 ) 
+Bava ( 16:35 )  , Balava ( 27:44 ) 
+08:01 PM - 07:28 AM
+
+------------------------------------------------------
+Tue Dec 18 06:00:00 EST 2007
+Tuesday
+Uttra Bhadrapada ( 08:11 ) 
+Navami ( 14:45 ) 
+Shukla
+Variyan ( 25:38 ) 
+Kaulava ( 14:45 )  , Taitula ( 25:37 ) 
+08:01 PM - 07:29 AM
+
+------------------------------------------------------
+Wed Dec 19 06:00:00 EST 2007
+Wednesday
+Revathi ( 06:38 ) 
+Dasami ( 12:22 ) 
+Shukla
+Parigha ( 22:16 ) 
+Garija ( 12:22 )  , Vanija ( 23:00 ) 
+08:02 PM - 07:29 AM
+
+------------------------------------------------------
+Thu Dec 20 06:00:00 EST 2007
+Thursday
+Bharani ( 26:12 ) 
+Ekaadasi ( 09:31 ) 
+Shukla
+Siva ( 18:34 ) 
+Visti ( 09:31 )  , Bava ( 19:58 ) 
+08:02 PM - 07:30 AM
+
+------------------------------------------------------
+Fri Dec 21 06:00:00 EST 2007
+Friday
+Krithika ( 23:35 ) 
+Dvaadasi ( 06:20 ) 
+Shukla
+Siddha ( 14:39 ) 
+Balava ( 06:20 )  , Kaulava ( 16:39 ) 
+08:03 PM - 07:30 AM
+
+------------------------------------------------------
+Sat Dec 22 06:00:00 EST 2007
+Saturday
+Rohini ( 20:53 ) 
+Chathurdasi ( 23:31 ) 
+Shukla
+Sadhya ( 10:36 ) 
+Garija ( 13:14 )  , Vanija ( 23:31 ) 
+08:03 PM - 07:31 AM
+
+------------------------------------------------------
+Sun Dec 23 06:00:00 EST 2007
+Sunday
+Mrigasira ( 18:19 ) 
+Pournami ( 20:15 ) 
+Shukla
+Subha ( 06:36 ) 
+Visti ( 09:52 )  , Bava ( 20:15 ) 
+08:04 PM - 07:31 AM
+
+------------------------------------------------------
+Mon Dec 24 06:00:00 EST 2007
+Monday
+Ardra ( 16:04 ) 
+Prathamai ( 17:18 ) 
+Krishna
+Brahma ( 23:13 ) 
+Balava ( -0-334:0-21 )  , Kaulava ( 17:18 ) 
+08:04 PM - 07:32 AM
+
+------------------------------------------------------
+Tue Dec 25 06:00:00 EST 2007
+Tuesday
+Punarvasu ( 14:17 ) 
+Dvithiyai ( 14:51 ) 
+Krishna
+Indra ( 20:08 ) 
+Garija ( 14:51 )  , Vanija ( 25:52 ) 
+08:05 PM - 07:32 AM
+
+------------------------------------------------------
+Wed Dec 26 06:00:00 EST 2007
+Wednesday
+Pushyami ( 13:09 ) 
+Thrithiyai ( 13:03 ) 
+Krishna
+Vaidhriti ( 17:35 ) 
+Visti ( 13:03 )  , Bava ( 24:26 ) 
+08:05 PM - 07:33 AM
+
+------------------------------------------------------
+Thu Dec 27 06:00:00 EST 2007
+Thursday
+Ashlesha ( 12:47 ) 
+Chathruthi ( 12:02 ) 
+Krishna
+Vishakambha ( 15:39 ) 
+Balava ( 12:02 )  , Kaulava ( 23:50 ) 
+08:05 PM - 07:33 AM
+
+------------------------------------------------------
+Fri Dec 28 06:00:00 EST 2007
+Friday
+Magha ( 13:13 ) 
+Panchami ( 11:50 ) 
+Krishna
+Priti ( 14:23 ) 
+Taitula ( 11:50 )  , Garija ( 24:04 ) 
+08:06 PM - 07:34 AM
+
+------------------------------------------------------
+Sat Dec 29 06:00:00 EST 2007
+Saturday
+Purva Phalguni ( 14:27 ) 
+Sashti ( 12:29 ) 
+Krishna
+Ayushman ( 13:45 ) 
+Vanija ( 12:29 )  , Visti ( 25:06 ) 
+08:06 PM - 07:34 AM
+
+------------------------------------------------------
+Sun Dec 30 06:00:00 EST 2007
+Sunday
+Uttra Phalguni ( 16:25 ) 
+Sapthami ( 13:54 ) 
+Krishna
+Saubhagya ( 13:42 ) 
+Bava ( 13:54 )  , Balava ( 26:50 ) 
+08:07 PM - 07:35 AM
+
+------------------------------------------------------
+Mon Dec 31 06:00:00 EST 2007
+Monday
+Hasta ( 18:56 ) 
+Ashtami ( 15:55 ) 
+Krishna
+Sobhana ( 14:06 ) 
+Kaulava ( 15:55 )  , Taitula ( 29:05 ) 
+08:07 PM - 07:36 AM
+
+------------------------------------------------------
+
